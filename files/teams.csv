@@ -1,0 +1,1055 @@
+,id,match_id,name,score,short_name
+0,3,1,Jaipur Pink Panthers,28,JAI
+1,5,1,U Mumba,44,MUM
+2,3,102,Jaipur Pink Panthers,31,JAI
+3,7,102,Puneri Paltan,18,PUN
+4,1,104,Bengaluru Bulls,29,BEN
+5,5,104,U Mumba,36,MUM
+6,4,105,Bengal Warriors,31,KOL
+7,7,105,Puneri Paltan,28,PUN
+8,28,1050,Haryana Steelers,27,HS
+9,31,1050,Gujarat Fortunegiants,27,GFG
+10,1,106,Bengaluru Bulls,25,BEN
+11,3,106,Jaipur Pink Panthers,27,JAI
+12,4,107,Bengal Warriors,32,KOL
+13,6,107,Patna Pirates,34,PAT
+14,6,109,Patna Pirates,27,PAT
+15,5,109,U Mumba,32,MUM
+16,6,11,Patna Pirates,34,PAT
+17,8,11,Telugu Titans,35,HYD
+18,1,110,Bengaluru Bulls,43,BEN
+19,8,110,Telugu Titans,29,HYD
+20,3,112,Jaipur Pink Panthers,38,JAI
+21,4,112,Bengal Warriors,39,KOL
+22,7,113,Puneri Paltan,34,PUN
+23,5,113,U Mumba,39,MUM
+24,5,114,U Mumba,25,MUM
+25,8,114,Telugu Titans,46,HYD
+26,7,115,Puneri Paltan,21,PUN
+27,6,115,Patna Pirates,38,PAT
+28,6,116,Patna Pirates,26,PAT
+29,3,116,Jaipur Pink Panthers,24,JAI
+30,7,117,Puneri Paltan,30,PUN
+31,1,117,Bengaluru Bulls,31,BEN
+32,8,118,Telugu Titans,38,HYD
+33,1,118,Bengaluru Bulls,39,BEN
+34,5,119,U Mumba,35,MUM
+35,6,119,Patna Pirates,18,PAT
+36,4,12,Bengal Warriors,37,KOL
+37,7,12,Puneri Paltan,34,PUN
+38,6,120,Patna Pirates,26,PAT
+39,8,120,Telugu Titans,34,HYD
+40,5,121,U Mumba,36,MUM
+41,1,121,Bengaluru Bulls,30,BEN
+42,8,122,Telugu Titans,25,VIZ
+43,5,122,U Mumba,27,MUM
+44,3,124,Jaipur Pink Panthers,27,JAI
+45,5,124,U Mumba,18,MUM
+46,8,125,Telugu Titans,27,VIZ
+47,7,125,Puneri Paltan,26,PUN
+48,6,126,Patna Pirates,29,PAT
+49,3,126,Jaipur Pink Panthers,28,JAI
+50,8,128,Telugu Titans,17,VIZ
+51,4,128,Bengal Warriors,25,KOL
+52,1,129,Bengaluru Bulls,24,BEN
+53,6,129,Patna Pirates,33,PAT
+54,3,13,Jaipur Pink Panthers,35,JAI
+55,6,13,Patna Pirates,18,PAT
+56,1,131,Bengaluru Bulls,24,BEN
+57,4,131,Bengal Warriors,34,KOL
+58,1,133,Bengaluru Bulls,36,BEN
+59,3,133,Jaipur Pink Panthers,26,JAI
+60,5,134,U Mumba,26,MUM
+61,6,134,Patna Pirates,40,PAT
+62,1,135,Bengaluru Bulls,26,BEN
+63,8,135,Telugu Titans,35,VIZ
+64,4,136,Bengal Warriors,33,KOL
+65,7,136,Puneri Paltan,28,PUN
+66,6,138,Patna Pirates,29,PAT
+67,8,138,Telugu Titans,25,VIZ
+68,4,14,Bengal Warriors,28,KOL
+69,5,14,U Mumba,38,MUM
+70,4,140,Bengal Warriors,31,KOL
+71,6,140,Patna Pirates,36,PAT
+72,5,141,U Mumba,29,MUM
+73,1,141,Bengaluru Bulls,28,BEN
+74,4,142,Bengal Warriors,34,KOL
+75,3,142,Jaipur Pink Panthers,20,JAI
+76,3,146,Jaipur Pink Panthers,25,JAI
+77,8,146,Telugu Titans,27,VIZ
+78,7,147,Puneri Paltan,27,PUN
+79,5,147,U Mumba,29,MUM
+80,5,148,U Mumba,32,MUM
+81,4,148,Bengal Warriors,21,KOL
+82,7,149,Puneri Paltan,29,PUN
+83,1,149,Bengaluru Bulls,27,BEN
+84,6,150,Patna Pirates,32,PAT
+85,4,150,Bengal Warriors,27,KOL
+86,8,151,Telugu Titans,26,VIZ
+87,3,151,Jaipur Pink Panthers,35,JAI
+88,6,152,Patna Pirates,36,PAT
+89,1,152,Bengaluru Bulls,32,BEN
+90,4,155,Bengal Warriors,32,KOL
+91,8,155,Telugu Titans,28,VIZ
+92,6,156,Patna Pirates,28,PAT
+93,5,156,U Mumba,34,MUM
+94,3,157,Jaipur Pink Panthers,30,JAI
+95,1,157,Bengaluru Bulls,21,BEN
+96,8,159,Telugu Titans,40,VIZ
+97,1,159,Bengaluru Bulls,22,BEN
+98,1,16,Bengaluru Bulls,30,BEN
+99,7,16,Puneri Paltan,31,PUN
+100,3,160,Jaipur Pink Panthers,18,JAI
+101,7,160,Puneri Paltan,33,PUN
+102,3,161,Jaipur Pink Panthers,18,JAI
+103,4,161,Bengal Warriors,34,KOL
+104,4,162,Bengal Warriors,17,KOL
+105,5,162,U Mumba,30,MUM
+106,3,163,Jaipur Pink Panthers,24,JAI
+107,6,163,Patna Pirates,47,PAT
+108,1,165,Bengaluru Bulls,18,BEN
+109,5,165,U Mumba,39,MUM
+110,7,167,Puneri Paltan,41,PUN
+111,8,167,Telugu Titans,24,VIZ
+112,8,1685,Telugu Titans,25,HYD
+113,5,1685,U Mumba,31,MUM
+114,1,1686,Bengaluru Bulls,34,BEN
+115,6,1686,Patna Pirates,32,PAT
+116,1,1687,Bengaluru Bulls,24,BEN
+117,31,1687,Gujarat Fortunegiants,42,GFG
+118,8,1688,Telugu Titans,26,HYD
+119,29,1688,Tamil Thalaivas,39,TT
+120,5,1689,U Mumba,23,MUM
+121,3,1689,Jaipur Pink Panthers,42,JAI
+122,1,169,Bengaluru Bulls,27,BEN
+123,7,169,Puneri Paltan,44,PUN
+124,7,1690,Puneri Paltan,24,PUN
+125,28,1690,Haryana Steelers,34,HS
+126,30,1691,U.P. Yoddha,17,UPY
+127,4,1691,Bengal Warriors,48,KOL
+128,8,1692,Telugu Titans,33,HYD
+129,2,1692,Dabang Delhi K.C.,34,DEL
+130,2,1693,Dabang Delhi K.C.,30,DEL
+131,29,1693,Tamil Thalaivas,29,TT
+132,30,1694,U.P. Yoddha,19,UPY
+133,31,1694,Gujarat Fortunegiants,44,GFG
+134,8,1695,Telugu Titans,22,HYD
+135,6,1695,Patna Pirates,34,PAT
+136,5,1696,U Mumba,33,MUM
+137,7,1696,Puneri Paltan,23,PUN
+138,3,1697,Jaipur Pink Panthers,27,JAI
+139,4,1697,Bengal Warriors,25,KOL
+140,2,1698,Dabang Delhi K.C.,41,DEL
+141,28,1698,Haryana Steelers,21,HS
+142,5,1699,U Mumba,26,MUM
+143,1,1699,Bengaluru Bulls,30,BEN
+144,5,17,U Mumba,41,MUM
+145,7,17,Puneri Paltan,25,PUN
+146,29,1700,Tamil Thalaivas,23,TT
+147,6,1700,Patna Pirates,24,PAT
+148,4,1701,Bengal Warriors,43,KOL
+149,7,1701,Puneri Paltan,23,PUN
+150,28,1702,Haryana Steelers,21,HS
+151,3,1702,Jaipur Pink Panthers,37,JAI
+152,5,1703,U Mumba,23,MUM
+153,30,1703,U.P. Yoddha,27,UPY
+154,31,1704,Gujarat Fortunegiants,31,GFG
+155,2,1704,Dabang Delhi K.C.,26,DEL
+156,5,1706,U Mumba,32,MUM
+157,31,1706,Gujarat Fortunegiants,20,GFG
+158,6,1707,Patna Pirates,21,PAT
+159,3,1707,Jaipur Pink Panthers,34,JAI
+160,4,1708,Bengal Warriors,42,KOL
+161,1,1708,Bengaluru Bulls,43,BEN
+162,28,1709,Haryana Steelers,28,HS
+163,29,1709,Tamil Thalaivas,35,TT
+164,5,171,U Mumba,35,MUM
+165,3,171,Jaipur Pink Panthers,21,JAI
+166,6,1710,Patna Pirates,20,PAT
+167,7,1710,Puneri Paltan,41,PUN
+168,2,1711,Dabang Delhi K.C.,35,DEL
+169,3,1711,Jaipur Pink Panthers,24,JAI
+170,31,1712,Gujarat Fortunegiants,31,GFG
+171,7,1712,Puneri Paltan,33,PUN
+172,6,1714,Patna Pirates,26,PAT
+173,28,1714,Haryana Steelers,35,HS
+174,8,1715,Telugu Titans,26,HYD
+175,1,1715,Bengaluru Bulls,47,BEN
+176,4,1716,Bengal Warriors,32,KOL
+177,5,1716,U Mumba,30,MUM
+178,6,1717,Patna Pirates,41,PAT
+179,30,1717,U.P. Yoddha,20,UPY
+180,31,1718,Gujarat Fortunegiants,28,GFG
+181,29,1718,Tamil Thalaivas,34,TT
+182,7,1719,Puneri Paltan,30,PUN
+183,2,1719,Dabang Delhi K.C.,32,DEL
+184,8,172,Telugu Titans,42,VIZ
+185,6,172,Patna Pirates,41,PAT
+186,1,1720,Bengaluru Bulls,30,BEN
+187,28,1720,Haryana Steelers,33,HS
+188,31,1721,Gujarat Fortunegiants,24,GFG
+189,8,1721,Telugu Titans,30,HYD
+190,30,1723,U.P. Yoddha,35,UPY
+191,1,1723,Bengaluru Bulls,33,BEN
+192,30,1724,U.P. Yoddha,33,UPY
+193,28,1724,Haryana Steelers,36,HS
+194,31,1725,Gujarat Fortunegiants,26,GFG
+195,4,1725,Bengal Warriors,28,KOL
+196,3,1726,Jaipur Pink Panthers,33,JAI
+197,7,1726,Puneri Paltan,25,PUN
+198,5,1727,U Mumba,34,MUM
+199,6,1727,Patna Pirates,30,PAT
+200,31,1728,Gujarat Fortunegiants,19,GFG
+201,3,1728,Jaipur Pink Panthers,22,JAI
+202,29,1729,Tamil Thalaivas,21,TT
+203,1,1729,Bengaluru Bulls,32,BEN
+204,5,173,U Mumba,30,MUM
+205,7,173,Puneri Paltan,27,PUN
+206,28,1731,Haryana Steelers,29,HS
+207,8,1731,Telugu Titans,40,HYD
+208,29,1732,Tamil Thalaivas,31,TT
+209,7,1732,Puneri Paltan,31,PUN
+210,5,1733,U Mumba,27,MUM
+211,28,1733,Haryana Steelers,30,HS
+212,30,1734,U.P. Yoddha,31,UPY
+213,3,1734,Jaipur Pink Panthers,24,JAI
+214,7,1735,Puneri Paltan,31,PUN
+215,1,1735,Bengaluru Bulls,23,BEN
+216,29,1736,Tamil Thalaivas,26,TT
+217,3,1736,Jaipur Pink Panthers,28,JAI
+218,4,1737,Bengal Warriors,35,KOL
+219,6,1737,Patna Pirates,26,PAT
+220,31,1738,Gujarat Fortunegiants,29,GFG
+221,6,1738,Patna Pirates,26,PAT
+222,29,1739,Tamil Thalaivas,24,TT
+223,5,1739,U Mumba,29,MUM
+224,4,174,Bengal Warriors,26,KOL
+225,1,174,Bengaluru Bulls,22,BEN
+226,2,1740,Dabang Delhi K.C.,33,DEL
+227,1,1740,Bengaluru Bulls,31,BEN
+228,3,1741,Jaipur Pink Panthers,21,JAI
+229,8,1741,Telugu Titans,24,HYD
+230,3,1742,Jaipur Pink Panthers,30,JAI
+231,1,1742,Bengaluru Bulls,41,BEN
+232,2,1743,Dabang Delhi K.C.,36,DEL
+233,30,1743,U.P. Yoddha,27,UPY
+234,4,1744,Bengal Warriors,33,KOL
+235,28,1744,Haryana Steelers,36,HS
+236,30,1745,U.P. Yoddha,35,UPY
+237,7,1745,Puneri Paltan,30,PUN
+238,31,1746,Gujarat Fortunegiants,25,GFG
+239,28,1746,Haryana Steelers,41,HS
+240,2,1747,Dabang Delhi K.C.,40,DEL
+241,5,1747,U Mumba,24,MUM
+242,4,1748,Bengal Warriors,35,KOL
+243,29,1748,Tamil Thalaivas,26,TT
+244,8,1749,Telugu Titans,27,HYD
+245,7,1749,Puneri Paltan,34,PUN
+246,5,175,U Mumba,38,MUM
+247,8,175,Telugu Titans,22,VIZ
+248,2,1750,Dabang Delhi K.C.,38,DEL
+249,6,1750,Patna Pirates,35,PAT
+250,1,1751,Bengaluru Bulls,23,BEN
+251,31,1751,Gujarat Fortunegiants,32,GFG
+252,5,1752,U Mumba,47,MUM
+253,3,1752,Jaipur Pink Panthers,21,JAI
+254,30,1753,U.P. Yoddha,32,UPY
+255,4,1753,Bengal Warriors,29,KOL
+256,1,1754,Bengaluru Bulls,33,BEN
+257,29,1754,Tamil Thalaivas,27,TT
+258,7,1755,Puneri Paltan,27,PUN
+259,28,1755,Haryana Steelers,41,HS
+260,8,1756,Telugu Titans,35,HYD
+261,29,1756,Tamil Thalaivas,30,TT
+262,3,1757,Jaipur Pink Panthers,44,JAI
+263,2,1757,Dabang Delhi K.C.,46,DEL
+264,1,1758,Bengaluru Bulls,40,BEN
+265,6,1758,Patna Pirates,39,PAT
+266,7,176,Puneri Paltan,43,PUN
+267,4,176,Bengal Warriors,19,KOL
+268,6,1760,Patna Pirates,29,PAT
+269,30,1760,U.P. Yoddha,41,UPY
+270,1,1761,Bengaluru Bulls,40,BEN
+271,8,1761,Telugu Titans,39,HYD
+272,4,1762,Bengal Warriors,25,KOL
+273,31,1762,Gujarat Fortunegiants,25,GFG
+274,2,1763,Dabang Delhi K.C.,25,DEL
+275,28,1763,Haryana Steelers,47,HS
+276,2,1764,Dabang Delhi K.C.,50,DEL
+277,29,1764,Tamil Thalaivas,34,TT
+278,4,1765,Bengal Warriors,42,KOL
+279,7,1765,Puneri Paltan,39,PUN
+280,30,1766,U.P. Yoddha,33,UPY
+281,31,1766,Gujarat Fortunegiants,26,GFG
+282,29,1767,Tamil Thalaivas,25,TT
+283,6,1767,Patna Pirates,51,PAT
+284,4,1769,Bengal Warriors,29,KOL
+285,5,1769,U Mumba,26,MUM
+286,3,1770,Jaipur Pink Panthers,33,JAI
+287,6,1770,Patna Pirates,36,PAT
+288,8,1771,Telugu Titans,27,HYD
+289,5,1771,U Mumba,41,MUM
+290,6,178,Patna Pirates,40,PAT
+291,7,178,Puneri Paltan,21,PUN
+292,5,179,U Mumba,41,MUM
+293,4,179,Bengal Warriors,29,KOL
+294,4,180,Bengal Warriors,27,KOL
+295,7,180,Puneri Paltan,31,PUN
+296,5,181,U Mumba,28,MUM
+297,6,181,Patna Pirates,31,PAT
+298,5,183,U Mumba,36,MUM
+299,3,183,Jaipur Pink Panthers,34,JAI
+300,1,184,Bengaluru Bulls,24,BEN
+301,4,184,Bengal Warriors,23,KOL
+302,7,185,Puneri Paltan,41,PUN
+303,5,185,U Mumba,19,MUM
+304,4,186,Bengal Warriors,31,KOL
+305,2,186,Dabang Delhi K.C.,23,DEL
+306,7,187,Puneri Paltan,24,PUN
+307,6,187,Patna Pirates,30,PAT
+308,7,188,Puneri Paltan,27,PUN
+309,2,188,Dabang Delhi K.C.,27,DEL
+310,3,189,Jaipur Pink Panthers,28,JAI
+311,8,189,Telugu Titans,24,HYD
+312,1,19,Bengaluru Bulls,32,BEN
+313,5,19,U Mumba,43,MUM
+314,5,190,U Mumba,34,MUM
+315,6,190,Patna Pirates,36,PAT
+316,3,191,Jaipur Pink Panthers,28,JAI
+317,1,191,Bengaluru Bulls,28,BEN
+318,5,192,U Mumba,27,MUM
+319,2,192,Dabang Delhi K.C.,25,DEL
+320,3,193,Jaipur Pink Panthers,36,JAI
+321,4,193,Bengal Warriors,33,KOL
+322,2,194,Dabang Delhi K.C.,32,DEL
+323,1,194,Bengaluru Bulls,24,BEN
+324,3,195,Jaipur Pink Panthers,28,JAI
+325,7,195,Puneri Paltan,33,PUN
+326,8,196,Telugu Titans,33,HYD
+327,6,196,Patna Pirates,35,PAT
+328,4,197,Bengal Warriors,18,KOL
+329,5,197,U Mumba,26,MUM
+330,1,198,Bengaluru Bulls,29,BEN
+331,7,198,Puneri Paltan,27,PUN
+332,8,199,Telugu Titans,35,HYD
+333,4,199,Bengal Warriors,18,KOL
+334,8,200,Telugu Titans,28,HYD
+335,1,200,Bengaluru Bulls,30,BEN
+336,2,201,Dabang Delhi K.C.,26,DEL
+337,3,201,Jaipur Pink Panthers,51,JAI
+338,8,202,Telugu Titans,35,HYD
+339,5,202,U Mumba,30,MUM
+340,6,203,Patna Pirates,31,PAT
+341,1,203,Bengaluru Bulls,25,BEN
+342,1,204,Bengaluru Bulls,23,BEN
+343,5,204,U Mumba,24,MUM
+344,6,205,Patna Pirates,35,PAT
+345,4,205,Bengal Warriors,21,KOL
+346,4,206,Bengal Warriors,31,KOL
+347,7,206,Puneri Paltan,38,PUN
+348,6,207,Patna Pirates,15,PAT
+349,2,207,Dabang Delhi K.C.,33,DEL
+350,2,208,Dabang Delhi K.C.,23,DEL
+351,8,208,Telugu Titans,28,HYD
+352,6,209,Patna Pirates,21,PAT
+353,3,209,Jaipur Pink Panthers,26,JAI
+354,1,210,Bengaluru Bulls,24,BEN
+355,8,210,Telugu Titans,32,HYD
+356,1,212,Bengaluru Bulls,22,BEN
+357,3,212,Jaipur Pink Panthers,24,JAI
+358,3,213,Jaipur Pink Panthers,23,JAI
+359,5,213,U Mumba,29,MUM
+360,1,214,Bengaluru Bulls,23,BEN
+361,6,214,Patna Pirates,38,PAT
+362,8,215,Telugu Titans,32,HYD
+363,7,215,Puneri Paltan,29,PUN
+364,1,216,Bengaluru Bulls,20,BEN
+365,2,216,Dabang Delhi K.C.,40,DEL
+366,4,217,Bengal Warriors,32,KOL
+367,3,217,Jaipur Pink Panthers,25,JAI
+368,6,218,Patna Pirates,34,PAT
+369,5,218,U Mumba,24,MUM
+370,7,219,Puneri Paltan,27,PUN
+371,3,219,Jaipur Pink Panthers,33,JAI
+372,6,22,Patna Pirates,34,PAT
+373,7,22,Puneri Paltan,26,PUN
+374,4,220,Bengal Warriors,27,KOL
+375,6,220,Patna Pirates,33,PAT
+376,4,221,Bengal Warriors,34,KOL
+377,8,221,Telugu Titans,34,HYD
+378,8,222,Telugu Titans,36,HYD
+379,2,222,Dabang Delhi K.C.,28,DEL
+380,4,223,Bengal Warriors,25,KOL
+381,1,223,Bengaluru Bulls,27,BEN
+382,5,224,U Mumba,34,MUM
+383,7,224,Puneri Paltan,31,PUN
+384,3,225,Jaipur Pink Panthers,24,JAI
+385,2,225,Dabang Delhi K.C.,22,DEL
+386,5,226,U Mumba,25,MUM
+387,8,226,Telugu Titans,25,HYD
+388,3,227,Jaipur Pink Panthers,29,JAI
+389,6,227,Patna Pirates,22,PAT
+390,5,228,U Mumba,27,MUM
+391,4,228,Bengal Warriors,31,KOL
+392,6,229,Patna Pirates,31,PAT
+393,7,229,Puneri Paltan,28,PUN
+394,4,23,Bengal Warriors,39,KOL
+395,8,23,Telugu Titans,34,HYD
+396,5,230,U Mumba,27,MUM
+397,1,230,Bengaluru Bulls,28,BEN
+398,2,231,Dabang Delhi K.C.,41,DEL
+399,4,231,Bengal Warriors,20,KOL
+400,8,232,Telugu Titans,35,HYD
+401,3,232,Jaipur Pink Panthers,23,JAI
+402,2,233,Dabang Delhi K.C.,31,DEL
+403,6,233,Patna Pirates,32,PAT
+404,6,234,Patna Pirates,25,PAT
+405,8,234,Telugu Titans,46,HYD
+406,2,235,Dabang Delhi K.C.,34,DEL
+407,7,235,Puneri Paltan,39,PUN
+408,7,236,Puneri Paltan,36,PUN
+409,1,236,Bengaluru Bulls,33,BEN
+410,2,237,Dabang Delhi K.C.,34,DEL
+411,5,237,U Mumba,38,MUM
+412,6,238,Patna Pirates,37,PAT
+413,7,238,Puneri Paltan,33,PUN
+414,8,239,Telugu Titans,24,HYD
+415,3,239,Jaipur Pink Panthers,34,JAI
+416,8,240,Telugu Titans,35,HYD
+417,7,240,Puneri Paltan,40,PUN
+418,6,241,Patna Pirates,37,PAT
+419,3,241,Jaipur Pink Panthers,29,JAI
+420,3,25,Jaipur Pink Panthers,48,JAI
+421,8,25,Telugu Titans,29,HYD
+422,3,27,Jaipur Pink Panthers,36,JAI
+423,4,27,Bengal Warriors,23,KOL
+424,1,28,Bengaluru Bulls,33,BEN
+425,6,28,Patna Pirates,33,PAT
+426,8,286,Telugu Titans,32,HYD
+427,29,286,Tamil Thalaivas,27,TAMIL NADU
+428,5,287,U Mumba,21,MUM
+429,7,287,Puneri Paltan,33,PUN
+430,3,288,Jaipur Pink Panthers,26,JAI
+431,2,288,Dabang Delhi K.C.,30,DEL
+432,8,289,Telugu Titans,29,HYD
+433,6,289,Patna Pirates,35,PAT
+434,7,29,Puneri Paltan,34,PUN
+435,8,29,Telugu Titans,41,HYD
+436,5,290,U Mumba,29,MUM
+437,28,290,Haryana Steelers,28,HARYANA
+438,8,291,Telugu Titans,21,HYD
+439,1,291,Bengaluru Bulls,31,BEN
+440,31,292,Gujarat Fortunegiants,26,GUJARAT
+441,2,292,Dabang Delhi K.C.,20,DEL
+442,8,293,Telugu Titans,18,HYD
+443,30,293,U.P. Yoddha,31,UP
+444,8,295,Telugu Titans,24,HYD
+445,4,295,Bengal Warriors,30,KOL
+446,8,296,Telugu Titans,36,HYD
+447,6,296,Patna Pirates,43,PAT
+448,1,297,Bengaluru Bulls,32,BEN
+449,29,297,Tamil Thalaivas,31,TT
+450,7,298,Puneri Paltan,26,PUN
+451,2,298,Dabang Delhi K.C.,21,DEL
+452,5,299,U Mumba,36,MUM
+453,2,299,Dabang Delhi K.C.,22,DEL
+454,1,3,Bengaluru Bulls,39,BEN
+455,7,3,Puneri Paltan,34,PUN
+456,1,30,Bengaluru Bulls,32,BEN
+457,5,30,U Mumba,27,MUM
+458,1,300,Bengaluru Bulls,27,BEN
+459,30,300,U.P. Yoddha,32,UPY
+460,4,301,Bengal Warriors,40,KOL
+461,30,301,U.P. Yoddha,20,UPY
+462,1,302,Bengaluru Bulls,32,BEN
+463,6,302,Patna Pirates,46,PAT
+464,31,303,Gujarat Fortunegiants,20,GFG
+465,28,303,Haryana Steelers,32,HS
+466,1,304,Bengaluru Bulls,21,BEN
+467,8,304,Telugu Titans,21,HYD
+468,1,305,Bengaluru Bulls,31,BEN
+469,4,305,Bengal Warriors,25,KOL
+470,7,306,Puneri Paltan,28,PUN
+471,3,306,Jaipur Pink Panthers,30,JAI
+472,1,307,Bengaluru Bulls,24,BEN
+473,29,307,Tamil Thalaivas,29,TT
+474,31,308,Gujarat Fortunegiants,39,GFG
+475,5,308,U Mumba,21,MUM
+476,8,309,Telugu Titans,32,HYD
+477,30,309,U.P. Yoddha,39,UPY
+478,4,31,Bengal Warriors,29,KOL
+479,7,31,Puneri Paltan,38,PUN
+480,31,310,Gujarat Fortunegiants,29,GFG
+481,2,310,Dabang Delhi K.C.,25,DEL
+482,31,312,Gujarat Fortunegiants,27,GFG
+483,3,312,Jaipur Pink Panthers,20,JAI
+484,4,313,Bengal Warriors,17,KOL
+485,7,313,Puneri Paltan,34,PUN
+486,31,314,Gujarat Fortunegiants,27,GFG
+487,1,314,Bengaluru Bulls,24,BEN
+488,31,316,Gujarat Fortunegiants,29,GFG
+489,8,316,Telugu Titans,19,HYD
+490,2,317,Dabang Delhi K.C.,30,DEL
+491,29,317,Tamil Thalaivas,29,TT
+492,31,318,Gujarat Fortunegiants,26,GFG
+493,4,318,Bengal Warriors,26,KOL
+494,30,319,U.P. Yoddha,34,UPY
+495,5,319,U Mumba,37,MUM
+496,1,320,Bengaluru Bulls,28,BEN
+497,3,320,Jaipur Pink Panthers,30,JAI
+498,8,321,Telugu Titans,37,HYD
+499,5,321,U Mumba,32,MUM
+500,30,322,U.P. Yoddha,29,UPY
+501,28,322,Haryana Steelers,36,HS
+502,6,323,Patna Pirates,42,PAT
+503,7,323,Puneri Paltan,47,PUN
+504,30,324,U.P. Yoddha,22,UPY
+505,3,324,Jaipur Pink Panthers,24,JAI
+506,31,325,Gujarat Fortunegiants,35,GFG
+507,7,325,Puneri Paltan,21,PUN
+508,30,326,U.P. Yoddha,31,UPY
+509,4,326,Bengal Warriors,32,KOL
+510,28,327,Haryana Steelers,27,HS
+511,2,327,Dabang Delhi K.C.,25,DEL
+512,30,328,U.P. Yoddha,33,UPY
+513,29,328,Tamil Thalaivas,33,TT
+514,30,329,U.P. Yoddha,25,UPY
+515,8,329,Telugu Titans,23,HYD
+516,3,33,Jaipur Pink Panthers,48,JAI
+517,7,33,Puneri Paltan,22,PUN
+518,5,330,U Mumba,36,MUM
+519,3,330,Jaipur Pink Panthers,39,JAI
+520,6,332,Patna Pirates,35,PAT
+521,29,332,Tamil Thalaivas,24,TT
+522,5,333,U Mumba,24,MUM
+523,7,333,Puneri Paltan,26,PUN
+524,4,334,Bengal Warriors,32,KOL
+525,1,334,Bengaluru Bulls,26,BEN
+526,5,335,U Mumba,32,MUM
+527,2,335,Dabang Delhi K.C.,33,DEL
+528,1,336,Bengaluru Bulls,64,BEN
+529,30,336,U.P. Yoddha,24,UPY
+530,5,337,U Mumba,23,MUM
+531,31,337,Gujarat Fortunegiants,45,GFG
+532,5,338,U Mumba,38,MUM
+533,28,338,Haryana Steelers,32,HS
+534,8,339,Telugu Titans,33,HYD
+535,29,339,Tamil Thalaivas,28,TT
+536,5,340,U Mumba,36,MUM
+537,3,340,Jaipur Pink Panthers,32,JAI
+538,4,341,Bengal Warriors,41,KOL
+539,6,341,Patna Pirates,38,PAT
+540,31,342,Gujarat Fortunegiants,36,GFG
+541,28,342,Haryana Steelers,42,HS
+542,4,343,Bengal Warriors,26,KOL
+543,30,343,U.P. Yoddha,26,UPY
+544,31,344,Gujarat Fortunegiants,25,GFG
+545,3,344,Jaipur Pink Panthers,31,JAI
+546,4,345,Bengal Warriors,29,KOL
+547,29,345,Tamil Thalaivas,25,TT
+548,6,346,Patna Pirates,47,PAT
+549,3,346,Jaipur Pink Panthers,21,JAI
+550,4,347,Bengal Warriors,29,KOL
+551,28,347,Haryana Steelers,36,HS
+552,2,348,Dabang Delhi K.C.,38,DEL
+553,1,348,Bengaluru Bulls,30,BEN
+554,4,349,Bengal Warriors,31,KOL
+555,5,349,U Mumba,37,MUM
+556,6,35,Patna Pirates,34,PAT
+557,7,35,Puneri Paltan,29,PUN
+558,8,350,Telugu Titans,37,HYD
+559,7,350,Puneri Paltan,42,PUN
+560,4,351,Bengal Warriors,31,KOL
+561,2,351,Dabang Delhi K.C.,31,DEL
+562,28,352,Haryana Steelers,41,HS
+563,6,352,Patna Pirates,41,PAT
+564,6,354,Patna Pirates,41,PAT
+565,5,354,U Mumba,51,MUM
+566,28,355,Haryana Steelers,38,HS
+567,1,355,Bengaluru Bulls,31,BEN
+568,1,356,Bengaluru Bulls,24,BEN
+569,7,356,Puneri Paltan,20,PUN
+570,28,357,Haryana Steelers,19,HS
+571,8,357,Telugu Titans,37,HYD
+572,4,358,Bengal Warriors,32,KOL
+573,8,358,Telugu Titans,31,HYD
+574,28,359,Haryana Steelers,27,HS
+575,2,359,Dabang Delhi K.C.,24,DEL
+576,29,360,Tamil Thalaivas,34,TT
+577,30,360,U.P. Yoddha,33,UPY
+578,28,361,Haryana Steelers,22,HS
+579,7,361,Puneri Paltan,38,PUN
+580,28,362,Haryana Steelers,27,HS
+581,3,362,Jaipur Pink Panthers,27,JAI
+582,6,363,Patna Pirates,46,PAT
+583,8,363,Telugu Titans,30,HYD
+584,5,364,U Mumba,28,MUM
+585,31,364,Gujarat Fortunegiants,39,GFG
+586,6,366,Patna Pirates,45,PAT
+587,30,366,U.P. Yoddha,42,UPY
+588,3,367,Jaipur Pink Panthers,36,JAI
+589,2,367,Dabang Delhi K.C.,25,DEL
+590,6,368,Patna Pirates,37,PAT
+591,4,368,Bengal Warriors,37,KOL
+592,7,369,Puneri Paltan,37,PUN
+593,28,369,Haryana Steelers,25,HS
+594,3,37,Jaipur Pink Panthers,41,JAI
+595,4,37,Bengal Warriors,31,KOL
+596,6,370,Patna Pirates,36,PAT
+597,1,370,Bengaluru Bulls,32,BEN
+598,6,371,Patna Pirates,41,PAT
+599,29,371,Tamil Thalaivas,39,TT
+600,3,372,Jaipur Pink Panthers,26,JAI
+601,28,372,Haryana Steelers,30,HS
+602,6,373,Patna Pirates,41,PAT
+603,30,373,U.P. Yoddha,46,UPY
+604,2,374,Dabang Delhi K.C.,28,DEL
+605,5,374,U Mumba,30,MUM
+606,1,375,Bengaluru Bulls,29,BEN
+607,4,375,Bengal Warriors,33,KOL
+608,2,376,Dabang Delhi K.C.,29,DEL
+609,7,376,Puneri Paltan,34,PUN
+610,4,377,Bengal Warriors,32,KOL
+611,29,377,Tamil Thalaivas,33,TT
+612,2,378,Dabang Delhi K.C.,24,DEL
+613,28,378,Haryana Steelers,42,HS
+614,31,379,Gujarat Fortunegiants,34,GFG
+615,29,379,Tamil Thalaivas,35,TT
+616,3,38,Jaipur Pink Panthers,28,JAI
+617,6,38,Patna Pirates,51,PAT
+618,2,380,Dabang Delhi K.C.,34,DEL
+619,6,380,Patna Pirates,36,PAT
+620,8,381,Telugu Titans,41,HYD
+621,3,381,Jaipur Pink Panthers,34,JAI
+622,2,382,Dabang Delhi K.C.,16,DEL
+623,30,382,U.P. Yoddha,45,UPY
+624,1,383,Bengaluru Bulls,30,BEN
+625,5,383,U Mumba,42,MUM
+626,2,384,Dabang Delhi K.C.,22,DEL
+627,8,384,Telugu Titans,44,HYD
+628,29,385,Tamil Thalaivas,20,TT
+629,7,385,Puneri Paltan,33,PUN
+630,31,386,Gujarat Fortunegiants,30,GFG
+631,6,386,Patna Pirates,29,PAT
+632,7,387,Puneri Paltan,34,PUN
+633,30,387,U.P. Yoddha,33,UPY
+634,29,388,Tamil Thalaivas,26,TT
+635,3,388,Jaipur Pink Panthers,27,JAI
+636,3,389,Jaipur Pink Panthers,31,JAI
+637,4,389,Bengal Warriors,32,KOL
+638,5,39,U Mumba,42,MUM
+639,8,39,Telugu Titans,42,HYD
+640,29,390,Tamil Thalaivas,30,TT
+641,5,390,U Mumba,33,MUM
+642,2,391,Dabang Delhi K.C.,22,DEL
+643,31,391,Gujarat Fortunegiants,42,GFG
+644,29,392,Tamil Thalaivas,37,TT
+645,8,392,Telugu Titans,58,HYD
+646,5,393,U Mumba,30,MUM
+647,28,393,Haryana Steelers,41,HS
+648,29,394,Tamil Thalaivas,33,TT
+649,30,394,U.P. Yoddha,37,UPY
+650,29,395,Tamil Thalaivas,35,TT
+651,1,395,Bengaluru Bulls,45,BEN
+652,3,396,Jaipur Pink Panthers,23,JAI
+653,31,396,Gujarat Fortunegiants,29,GFG
+654,7,397,Puneri Paltan,19,PUN
+655,4,397,Bengal Warriors,25,KOL
+656,28,398,Haryana Steelers,32,HS
+657,8,398,Telugu Titans,30,HYD
+658,3,399,Jaipur Pink Panthers,36,JAI
+659,5,399,U Mumba,32,MUM
+660,4,4,Bengal Warriors,24,KOL
+661,5,4,U Mumba,35,MUM
+662,4,40,Bengal Warriors,29,KOL
+663,6,40,Patna Pirates,27,PAT
+664,31,400,Gujarat Fortunegiants,33,GFG
+665,6,400,Patna Pirates,29,PAT
+666,3,401,Jaipur Pink Panthers,30,JAI
+667,7,401,Puneri Paltan,38,PUN
+668,5,402,U Mumba,35,MUM
+669,29,402,Tamil Thalaivas,38,TT
+670,3,403,Jaipur Pink Panthers,34,JAI
+671,2,403,Dabang Delhi K.C.,35,DEL
+672,2,404,Dabang Delhi K.C.,32,DEL
+673,1,404,Bengaluru Bulls,35,BEN
+674,3,405,Jaipur Pink Panthers,27,JAI
+675,28,405,Haryana Steelers,37,HS
+676,3,406,Jaipur Pink Panthers,32,JAI
+677,30,406,U.P. Yoddha,53,UPY
+678,7,407,Puneri Paltan,20,PUN
+679,31,407,Gujarat Fortunegiants,44,GFG
+680,4,408,Bengal Warriors,34,KOL
+681,29,408,Tamil Thalaivas,30,TT
+682,29,409,Tamil Thalaivas,40,TT
+683,6,409,Patna Pirates,37,PAT
+684,7,41,Puneri Paltan,23,PUN
+685,8,41,Telugu Titans,58,HYD
+686,7,410,Puneri Paltan,43,PUN
+687,5,410,U Mumba,24,MUM
+688,1,411,Bengaluru Bulls,38,BEN
+689,30,411,U.P. Yoddha,32,UPY
+690,7,412,Puneri Paltan,34,PUN
+691,2,412,Dabang Delhi K.C.,31,DEL
+692,7,413,Puneri Paltan,27,PUN
+693,28,413,Haryana Steelers,31,HS
+694,7,415,Puneri Paltan,38,PUN
+695,3,415,Jaipur Pink Panthers,15,JAI
+696,7,417,Puneri Paltan,22,PUN
+697,31,417,Gujarat Fortunegiants,23,GFG
+698,7,418,Puneri Paltan,40,PUN
+699,30,418,U.P. Yoddha,38,UPY
+700,6,419,Patna Pirates,69,PAT
+701,28,419,Haryana Steelers,30,HS
+702,31,420,Gujarat Fortunegiants,42,GFG
+703,4,420,Bengal Warriors,17,KOL
+704,7,421,Puneri Paltan,32,PUN
+705,6,421,Patna Pirates,42,PAT
+706,4,422,Bengal Warriors,44,KOL
+707,6,422,Patna Pirates,47,PAT
+708,31,423,Gujarat Fortunegiants,38,GFG
+709,6,423,Patna Pirates,55,PAT
+710,1,43,Bengaluru Bulls,29,BEN
+711,3,43,Jaipur Pink Panthers,35,JAI
+712,4,44,Bengal Warriors,28,KOL
+713,6,44,Patna Pirates,36,PAT
+714,6,48,Patna Pirates,26,PAT
+715,8,48,Telugu Titans,28,HYD
+716,3,49,Jaipur Pink Panthers,30,JAI
+717,7,49,Puneri Paltan,21,PUN
+718,1,50,Bengaluru Bulls,33,BEN
+719,4,50,Bengal Warriors,23,KOL
+720,1,53,Bengaluru Bulls,28,BEN
+721,6,53,Patna Pirates,33,PAT
+722,1,54,Bengaluru Bulls,26,BEN
+723,8,54,Telugu Titans,25,HYD
+724,5,55,U Mumba,36,MUM
+725,7,55,Puneri Paltan,35,PUN
+726,1,56,Bengaluru Bulls,30,BEN
+727,3,56,Jaipur Pink Panthers,29,JAI
+728,3,57,Jaipur Pink Panthers,36,JAI
+729,6,57,Patna Pirates,17,PAT
+730,1,58,Bengaluru Bulls,22,BEN
+731,5,58,U Mumba,26,MUM
+732,1,59,Bengaluru Bulls,22,BEN
+733,6,59,Patna Pirates,29,PAT
+734,3,60,Jaipur Pink Panthers,34,JAI
+735,5,60,U Mumba,22,MUM
+736,5,62,U Mumba,29,MUM
+737,3,62,Jaipur Pink Panthers,28,JAI
+738,29,625,Tamil Thalaivas,42,TT
+739,6,625,Patna Pirates,26,PAT
+740,7,627,Puneri Paltan,34,PUN
+741,28,627,Haryana Steelers,22,HS
+742,29,628,Tamil Thalaivas,32,TT
+743,30,628,U.P. Yoddha,37,UPY
+744,1,63,Bengaluru Bulls,33,BEN
+745,4,63,Bengal Warriors,25,KOL
+746,29,630,Tamil Thalaivas,28,TT
+747,8,630,Telugu Titans,33,HYD
+748,5,631,U Mumba,39,MUM
+749,3,631,Jaipur Pink Panthers,32,JAI
+750,29,632,Tamil Thalaivas,37,TT
+751,1,632,Bengaluru Bulls,48,BEN
+752,3,633,Jaipur Pink Panthers,29,JAI
+753,2,633,Dabang Delhi K.C.,40,DEL
+754,29,634,Tamil Thalaivas,27,TT
+755,4,634,Bengal Warriors,36,KOL
+756,1,635,Bengaluru Bulls,37,BEN
+757,30,635,U.P. Yoddha,27,UPY
+758,28,636,Haryana Steelers,32,HS
+759,31,636,Gujarat Fortunegiants,25,GFG
+760,6,637,Patna Pirates,43,PAT
+761,30,637,U.P. Yoddha,37,UPY
+762,7,638,Puneri Paltan,37,PUN
+763,2,638,Dabang Delhi K.C.,41,DEL
+764,28,639,Haryana Steelers,26,HS
+765,5,639,U Mumba,53,MUM
+766,8,640,Telugu Titans,34,HYD
+767,30,640,U.P. Yoddha,29,UPY
+768,28,641,Haryana Steelers,27,HS
+769,7,641,Puneri Paltan,45,PUN
+770,4,642,Bengal Warriors,30,KOL
+771,8,642,Telugu Titans,25,HYD
+772,28,643,Haryana Steelers,33,HS
+773,3,643,Jaipur Pink Panthers,36,JAI
+774,1,644,Bengaluru Bulls,44,BEN
+775,29,644,Tamil Thalaivas,35,TT
+776,28,645,Haryana Steelers,32,HS
+777,5,645,U Mumba,42,MUM
+778,28,646,Haryana Steelers,34,HS
+779,2,646,Dabang Delhi K.C.,31,DEL
+780,7,647,Puneri Paltan,28,PUN
+781,31,647,Gujarat Fortunegiants,34,GFG
+782,6,648,Patna Pirates,31,PAT
+783,8,648,Telugu Titans,35,HYD
+784,7,649,Puneri Paltan,29,PUN
+785,3,649,Jaipur Pink Panthers,25,JAI
+786,5,65,U Mumba,36,MUM
+787,1,65,Bengaluru Bulls,23,BEN
+788,7,651,Puneri Paltan,33,PUN
+789,5,651,U Mumba,32,MUM
+790,2,652,Dabang Delhi K.C.,39,DEL
+791,4,652,Bengal Warriors,30,KOL
+792,7,653,Puneri Paltan,27,PUN
+793,1,653,Bengaluru Bulls,25,BEN
+794,5,654,U Mumba,41,MUM
+795,8,654,Telugu Titans,20,HYD
+796,7,655,Puneri Paltan,31,PUN
+797,29,655,Tamil Thalaivas,36,TT
+798,1,656,Bengaluru Bulls,42,BEN
+799,28,656,Haryana Steelers,34,HS
+800,7,657,Puneri Paltan,23,PUN
+801,30,657,U.P. Yoddha,29,UPY
+802,6,658,Patna Pirates,41,PAT
+803,3,658,Jaipur Pink Panthers,30,JAI
+804,31,659,Gujarat Fortunegiants,36,GFG
+805,29,659,Tamil Thalaivas,25,TT
+806,7,66,Puneri Paltan,24,PUN
+807,8,66,Telugu Titans,45,HYD
+808,3,660,Jaipur Pink Panthers,28,JAI
+809,4,660,Bengal Warriors,39,KOL
+810,6,661,Patna Pirates,39,PAT
+811,5,661,U Mumba,40,MUM
+812,2,662,Dabang Delhi K.C.,36,DEL
+813,30,662,U.P. Yoddha,38,UPY
+814,6,663,Patna Pirates,32,PAT
+815,28,663,Haryana Steelers,43,HS
+816,7,664,Puneri Paltan,27,PUN
+817,31,664,Gujarat Fortunegiants,37,GFG
+818,6,665,Patna Pirates,32,PAT
+819,8,665,Telugu Titans,53,HYD
+820,2,666,Dabang Delhi K.C.,27,DEL
+821,7,666,Puneri Paltan,31,PUN
+822,6,667,Patna Pirates,41,PAT
+823,1,667,Bengaluru Bulls,43,BEN
+824,6,668,Patna Pirates,29,PAT
+825,4,668,Bengal Warriors,27,KOL
+826,30,669,U.P. Yoddha,24,UPY
+827,29,669,Tamil Thalaivas,46,TT
+828,5,67,U Mumba,25,MUM
+829,6,67,Patna Pirates,20,PAT
+830,3,670,Jaipur Pink Panthers,25,JAI
+831,31,670,Gujarat Fortunegiants,36,GFG
+832,5,671,U Mumba,31,MUM
+833,7,671,Puneri Paltan,22,PUN
+834,30,672,U.P. Yoddha,29,UPY
+835,1,672,Bengaluru Bulls,35,BEN
+836,2,673,Dabang Delhi K.C.,38,DEL
+837,31,673,Gujarat Fortunegiants,45,GFG
+838,30,674,U.P. Yoddha,30,UPY
+839,4,674,Bengal Warriors,30,KOL
+840,3,675,Jaipur Pink Panthers,38,JAI
+841,28,675,Haryana Steelers,32,HS
+842,30,676,U.P. Yoddha,26,UPY
+843,8,676,Telugu Titans,26,HYD
+844,30,677,U.P. Yoddha,41,UPY
+845,6,677,Patna Pirates,43,PAT
+846,28,678,Haryana Steelers,33,HS
+847,2,678,Dabang Delhi K.C.,39,DEL
+848,30,679,U.P. Yoddha,27,UPY
+849,1,679,Bengaluru Bulls,37,BEN
+850,5,68,U Mumba,28,MUM
+851,7,68,Puneri Paltan,21,PUN
+852,5,680,U Mumba,48,MUM
+853,3,680,Jaipur Pink Panthers,24,JAI
+854,4,681,Bengal Warriors,30,KOL
+855,8,681,Telugu Titans,25,HYD
+856,6,682,Patna Pirates,50,PAT
+857,4,682,Bengal Warriors,30,KOL
+858,5,683,U Mumba,36,MUM
+859,31,683,Gujarat Fortunegiants,38,GFG
+860,5,684,U Mumba,31,MUM
+861,28,684,Haryana Steelers,35,HS
+862,7,685,Puneri Paltan,25,PUN
+863,8,685,Telugu Titans,28,HYD
+864,5,686,U Mumba,41,MUM
+865,30,686,U.P. Yoddha,24,UPY
+866,5,688,U Mumba,32,MUM
+867,1,688,Bengaluru Bulls,29,BEN
+868,6,689,Patna Pirates,38,PAT
+869,2,689,Dabang Delhi K.C.,35,DEL
+870,4,69,Bengal Warriors,28,KOL
+871,3,69,Jaipur Pink Panthers,26,JAI
+872,5,690,U Mumba,36,MUM
+873,29,690,Tamil Thalaivas,22,TT
+874,31,691,Gujarat Fortunegiants,35,GFG
+875,4,691,Bengal Warriors,23,KOL
+876,3,692,Jaipur Pink Panthers,45,JAI
+877,30,692,U.P. Yoddha,28,UPY
+878,7,693,Puneri Paltan,22,PUN
+879,4,693,Bengal Warriors,26,KOL
+880,31,694,Gujarat Fortunegiants,30,GFG
+881,1,694,Bengaluru Bulls,30,BEN
+882,3,695,Jaipur Pink Panthers,32,JAI
+883,1,695,Bengaluru Bulls,45,BEN
+884,31,696,Gujarat Fortunegiants,37,GFG
+885,30,696,U.P. Yoddha,32,UPY
+886,29,697,Tamil Thalaivas,27,TT
+887,8,697,Telugu Titans,23,HYD
+888,31,698,Gujarat Fortunegiants,26,GFG
+889,2,698,Dabang Delhi K.C.,29,DEL
+890,6,699,Patna Pirates,45,PAT
+891,29,699,Tamil Thalaivas,27,TT
+892,5,7,U Mumba,35,MUM
+893,6,7,Patna Pirates,32,PAT
+894,1,70,Bengaluru Bulls,31,BEN
+895,6,70,Patna Pirates,26,PAT
+896,31,700,Gujarat Fortunegiants,39,GFG
+897,5,700,U Mumba,35,MUM
+898,31,701,Gujarat Fortunegiants,40,GFG
+899,28,701,Haryana Steelers,31,HS
+900,1,702,Bengaluru Bulls,31,BEN
+901,4,702,Bengal Warriors,33,KOL
+902,5,704,U Mumba,39,MUM
+903,2,704,Dabang Delhi K.C.,23,DEL
+904,1,705,Bengaluru Bulls,36,BEN
+905,29,705,Tamil Thalaivas,22,TT
+906,1,706,Bengaluru Bulls,32,BEN
+907,6,706,Patna Pirates,35,PAT
+908,2,707,Dabang Delhi K.C.,27,DEL
+909,28,707,Haryana Steelers,34,HS
+910,29,708,Tamil Thalaivas,31,TT
+911,8,708,Telugu Titans,25,HYD
+912,28,709,Haryana Steelers,33,HS
+913,7,709,Puneri Paltan,35,PUN
+914,4,71,Bengal Warriors,30,KOL
+915,8,71,Telugu Titans,32,HYD
+916,1,710,Bengaluru Bulls,34,BEN
+917,8,710,Telugu Titans,26,HYD
+918,7,711,Puneri Paltan,20,PUN
+919,31,711,Gujarat Fortunegiants,35,GFG
+920,1,712,Bengaluru Bulls,37,BEN
+921,4,712,Bengal Warriors,44,KOL
+922,2,713,Dabang Delhi K.C.,48,DEL
+923,3,713,Jaipur Pink Panthers,35,JAI
+924,2,715,Dabang Delhi K.C.,34,DEL
+925,5,715,U Mumba,41,MUM
+926,5,716,U Mumba,36,MUM
+927,31,716,Gujarat Fortunegiants,26,GFG
+928,2,717,Dabang Delhi K.C.,35,DEL
+929,7,717,Puneri Paltan,24,PUN
+930,6,718,Patna Pirates,27,PAT
+931,31,718,Gujarat Fortunegiants,45,GFG
+932,2,719,Dabang Delhi K.C.,34,DEL
+933,8,719,Telugu Titans,29,HYD
+934,28,720,Haryana Steelers,35,HS
+935,4,720,Bengal Warriors,33,KOL
+936,2,721,Dabang Delhi K.C.,32,DEL
+937,1,721,Bengaluru Bulls,31,BEN
+938,30,722,U.P. Yoddha,30,UPY
+939,28,722,Haryana Steelers,29,HS
+940,2,723,Dabang Delhi K.C.,37,DEL
+941,29,723,Tamil Thalaivas,33,TT
+942,8,724,Telugu Titans,27,HYD
+943,31,724,Gujarat Fortunegiants,29,GFG
+944,6,725,Patna Pirates,53,PAT
+945,7,725,Puneri Paltan,36,PUN
+946,5,726,U Mumba,31,MUM
+947,4,726,Bengal Warriors,20,KOL
+948,8,727,Telugu Titans,36,HYD
+949,3,727,Jaipur Pink Panthers,26,JAI
+950,29,728,Tamil Thalaivas,24,TT
+951,3,728,Jaipur Pink Panthers,37,JAI
+952,8,729,Telugu Titans,35,HYD
+953,28,729,Haryana Steelers,31,HS
+954,4,73,Bengal Warriors,25,KOL
+955,5,73,U Mumba,29,MUM
+956,2,730,Dabang Delhi K.C.,19,DEL
+957,5,730,U Mumba,44,MUM
+958,8,731,Telugu Titans,20,HYD
+959,30,731,U.P. Yoddha,27,UPY
+960,28,732,Haryana Steelers,37,HS
+961,31,732,Gujarat Fortunegiants,47,GFG
+962,8,733,Telugu Titans,24,HYD
+963,1,733,Bengaluru Bulls,37,BEN
+964,8,734,Telugu Titans,41,HYD
+965,6,734,Patna Pirates,36,PAT
+966,3,735,Jaipur Pink Panthers,36,JAI
+967,7,735,Puneri Paltan,23,PUN
+968,4,736,Bengal Warriors,28,KOL
+969,29,736,Tamil Thalaivas,21,TT
+970,3,738,Jaipur Pink Panthers,35,JAI
+971,5,738,U Mumba,35,MUM
+972,6,739,Patna Pirates,31,PAT
+973,30,739,U.P. Yoddha,47,UPY
+974,1,74,Bengaluru Bulls,31,BEN
+975,7,74,Puneri Paltan,26,PUN
+976,3,740,Jaipur Pink Panthers,29,JAI
+977,31,740,Gujarat Fortunegiants,34,GFG
+978,1,741,Bengaluru Bulls,44,BEN
+979,8,741,Telugu Titans,28,HYD
+980,3,742,Jaipur Pink Panthers,39,JAI
+981,28,742,Haryana Steelers,30,HS
+982,3,744,Jaipur Pink Panthers,31,JAI
+983,31,744,Gujarat Fortunegiants,33,GFG
+984,3,745,Jaipur Pink Panthers,37,JAI
+985,2,745,Dabang Delhi K.C.,37,DEL
+986,7,746,Puneri Paltan,35,PUN
+987,8,746,Telugu Titans,20,HYD
+988,5,747,U Mumba,32,MUM
+989,30,747,U.P. Yoddha,34,UPY
+990,4,748,Bengal Warriors,39,KOL
+991,6,748,Patna Pirates,23,PAT
+992,4,749,Bengal Warriors,31,KOL
+993,2,749,Dabang Delhi K.C.,37,DEL
+994,4,750,Bengal Warriors,27,KOL
+995,29,750,Tamil Thalaivas,24,TT
+996,4,752,Bengal Warriors,39,KOL
+997,8,752,Telugu Titans,34,HYD
+998,31,753,Gujarat Fortunegiants,37,GFG
+999,6,753,Patna Pirates,29,PAT
+1000,4,754,Bengal Warriors,37,KOL
+1001,1,754,Bengaluru Bulls,31,BEN
+1002,3,755,Jaipur Pink Panthers,32,JAI
+1003,1,755,Bengaluru Bulls,40,BEN
+1004,4,756,Bengal Warriors,25,KOL
+1005,30,756,U.P. Yoddha,41,UPY
+1006,5,757,U Mumba,29,MUM
+1007,30,757,U.P. Yoddha,34,UPY
+1008,2,758,Dabang Delhi K.C.,39,DEL
+1009,4,758,Bengal Warriors,28,KOL
+1010,31,759,Gujarat Fortunegiants,29,GFG
+1011,1,759,Bengaluru Bulls,41,BEN
+1012,3,76,Jaipur Pink Panthers,23,JAI
+1013,6,76,Patna Pirates,29,PAT
+1014,30,760,U.P. Yoddha,45,UPY
+1015,2,760,Dabang Delhi K.C.,33,DEL
+1016,31,761,Gujarat Fortunegiants,38,GFG
+1017,30,761,U.P. Yoddha,31,UPY
+1018,1,762,Bengaluru Bulls,38,BEN
+1019,31,762,Gujarat Fortunegiants,33,GFG
+1020,29,763,Tamil Thalaivas,37,TT
+1021,8,763,Telugu Titans,58,HYD
+1022,8,77,Telugu Titans,26,HYD
+1023,5,77,U Mumba,27,MUM
+1024,3,79,Jaipur Pink Panthers,22,JAI
+1025,8,79,Telugu Titans,33,HYD
+1026,1,8,Bengaluru Bulls,46,BEN
+1027,4,8,Bengal Warriors,30,KOL
+1028,3,80,Jaipur Pink Panthers,36,JAI
+1029,1,80,Bengaluru Bulls,23,BEN
+1030,7,81,Puneri Paltan,33,PUN
+1031,4,81,Bengal Warriors,29,KOL
+1032,6,83,Patna Pirates,22,PAT
+1033,8,83,Telugu Titans,34,HYD
+1034,8,84,Telugu Titans,21,HYD
+1035,1,84,Bengaluru Bulls,35,BEN
+1036,6,87,Patna Pirates,32,PAT
+1037,7,87,Puneri Paltan,28,PUN
+1038,7,88,Puneri Paltan,29,PUN
+1039,3,88,Jaipur Pink Panthers,35,JAI
+1040,3,9,Jaipur Pink Panthers,46,JAI
+1041,8,9,Telugu Titans,31,HYD
+1042,8,92,Telugu Titans,44,HYD
+1043,4,92,Bengal Warriors,28,KOL
+1044,4,93,Bengal Warriors,22,KOL
+1045,1,93,Bengaluru Bulls,33,BEN
+1046,8,94,Telugu Titans,54,HYD
+1047,6,94,Patna Pirates,32,PAT
+1048,3,95,Jaipur Pink Panthers,35,JAI
+1049,5,95,U Mumba,25,MUM
+1050,6,98,Patna Pirates,30,PAT
+1051,1,98,Bengaluru Bulls,28,BEN
+1052,5,99,U Mumba,31,MUM
+1053,4,99,Bengal Warriors,17,KOL

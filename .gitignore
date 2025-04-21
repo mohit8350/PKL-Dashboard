@@ -1,0 +1,29 @@
+# Python-related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+a
+a.pub
+
+# Data and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore all CSVs in the files folder except OFFICIAL_PKL_players.csv
+files/*.csv
+!files/OFFICIAL_PKL_players.csv
+
+# Ignore specific folders
+temp/
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/

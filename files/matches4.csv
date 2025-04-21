@@ -1,0 +1,528 @@
+match_id,match_number,date,start_time,player_id_of_the_match,toss_winner,toss_selection,venue_id,venue_name,Team1,Team2,Score1,Score2,winner_team
+1,Match 1,7/26/2014,20:00,29.0,5,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Jaipur Pink Panthers,45,31,U Mumba
+102,Match 41,08-11-2015,20:00,86.0,7,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,Jaipur Pink Panthers,31,18,Puneri Paltan
+104,Match 43,08-12-2015,20:00,94.0,1,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,U Mumba,29,36,U Mumba
+105,Match 44,8/13/2015,20:00,141.0,7,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Puneri Paltan,Bengal Warriors,31,28,Puneri Paltan
+1050,Match 11,10-12-2018,20:00,,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,Gujarat Fortunegiants,27,27,
+106,Match 45,8/13/2015,21:00,190.0,3,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Jaipur Pink Panthers,Bengaluru Bulls,25,27,Bengaluru Bulls
+107,Match 46,8/14/2015,20:00,46.0,4,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengal Warriors,Patna Pirates,32,34,Patna Pirates
+109,Match 48,8/15/2015,20:00,94.0,6,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Patna Pirates,U Mumba,27,32,U Mumba
+11,Match 11,08-01-2014,20:00,92.0,8,Choice of court : Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Patna Pirates,35,37,Patna Pirates
+110,Match 49,8/15/2015,21:00,26.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Telugu Titans,43,30,Bengaluru Bulls
+112,Match 51,8/16/2015,21:00,163.0,4,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengal Warriors,Jaipur Pink Panthers,38,39,Jaipur Pink Panthers
+113,Match 52,8/17/2015,20:00,,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,U Mumba,34,39,U Mumba
+114,Match 53,8/18/2015,20:00,171.0,5,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba,Telugu Titans,25,46,Telugu Titans
+115,Match 54,8/18/2015,21:00,46.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Patna Pirates,21,38,Patna Pirates
+116,Match 55,8/19/2015,20:00,46.0,3,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Jaipur Pink Panthers,Patna Pirates,26,24,Jaipur Pink Panthers
+117,Match 56,8/19/2015,21:00,232.0,7,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Bengaluru Bulls,30,31,Bengaluru Bulls
+118,Semi-Final 1,8/21/2015,20:00,26.0,8,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Telugu Titans,Bengaluru Bulls,38,39,Bengaluru Bulls
+119,Semi-Final 2,8/21/2015,21:00,105.0,6,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,U Mumba,35,18,Patna Pirates
+12,Match 12,08-01-2014,21:00,12.0,7,Choice of court : Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Puneri Paltan,Bengal Warriors,38,35,Puneri Paltan
+120,3/4 Place,8/23/2015,20:00,81.0,6,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Telugu Titans,26,34,Telugu Titans
+121,Final,8/23/2015,21:00,105.0,5,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Bengaluru Bulls,36,30,U Mumba
+122,Match 1,1/30/2016,20:00,111.0,5,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Visakhapatnam",U Mumba,Telugu Titans,25,27,Telugu Titans
+124,Match 3,1/31/2016,20:00,52.0,5,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Visakhapatnam",U Mumba,Jaipur Pink Panthers,27,18,U Mumba
+125,Match 4,1/31/2016,21:00,251.0,7,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Visakhapatnam",Puneri Paltan,Telugu Titans,27,26,Puneri Paltan
+126,Match 5,02-01-2016,20:00,197.0,6,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Visakhapatnam",Patna Pirates,Jaipur Pink Panthers,29,28,Patna Pirates
+128,Match 7,02-02-2016,20:00,320.0,4,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Visakhapatnam",Bengal Warriors,Telugu Titans,17,25,Telugu Titans
+129,Match 8,02-03-2016,20:00,326.0,1,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Patna Pirates,24,33,Patna Pirates
+13,Match 13,08-02-2014,20:00,143.0,3,Choice of court : Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Jaipur Pink Panthers,Patna Pirates,18,40,Patna Pirates
+131,Match 10,02-04-2016,20:00,12.0,1,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Bengal Warriors,24,34,Bengal Warriors
+133,Match 12,02-05-2016,21:00,318.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Jaipur Pink Panthers,36,26,Bengaluru Bulls
+134,Match 13,02-06-2016,20:00,197.0,5,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",U Mumba,Patna Pirates,26,40,Patna Pirates
+135,Match 14,02-06-2016,21:00,81.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Telugu Titans,26,35,Telugu Titans
+136,Match 15,02-07-2016,20:00,320.0,7,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Puneri Paltan,Bengal Warriors,33,28,Puneri Paltan
+138,Match 17,02-08-2016,20:00,197.0,8,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Patna Pirates,29,25,Telugu Titans
+14,Match 14,08-02-2014,21:00,105.0,5,Choice of court : Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",U Mumba,Bengal Warriors,29,38,Bengal Warriors
+140,Match 19,02-09-2016,20:00,326.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Bengal Warriors,31,36,Bengal Warriors
+141,Match 20,02-10-2016,20:00,94.0,5,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",U Mumba,Bengaluru Bulls,29,28,U Mumba
+142,Match 21,02-10-2016,21:00,320.0,3,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Jaipur Pink Panthers,Bengal Warriors,34,20,Jaipur Pink Panthers
+146,Match 25,2/13/2016,20:00,251.0,3,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Jaipur Pink Panthers,Telugu Titans,25,27,Telugu Titans
+147,Match 26,2/13/2016,21:00,94.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,U Mumba,27,29,U Mumba
+148,Match 27,2/14/2016,20:00,94.0,5,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba,Bengal Warriors,32,21,U Mumba
+149,Match 28,2/14/2016,21:00,234.0,1,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,Puneri Paltan,29,27,Bengaluru Bulls
+150,Match 29,2/16/2016,20:00,197.0,4,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Patna Pirates,32,27,Bengal Warriors
+151,Match 30,2/16/2016,21:00,190.0,8,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Telugu Titans,Jaipur Pink Panthers,26,35,Jaipur Pink Panthers
+152,Match 31,2/17/2016,20:00,326.0,1,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengaluru Bulls,Patna Pirates,36,32,Bengaluru Bulls
+155,Match 34,2/19/2016,20:00,12.0,8,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Telugu Titans,Bengal Warriors,32,28,Telugu Titans
+156,Match 35,2/19/2016,21:00,326.0,5,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U Mumba,Patna Pirates,28,34,Patna Pirates
+157,Match 36,2/20/2016,20:00,52.0,1,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Jaipur Pink Panthers,30,21,Bengaluru Bulls
+159,Match 38,2/21/2016,20:00,111.0,1,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Telugu Titans,40,22,Bengaluru Bulls
+16,Match 16,08-03-2014,21:00,124.0,7,Choice of court : Left,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,Bengaluru Bulls,33,31,Puneri Paltan
+160,Match 39,2/21/2016,21:00,26.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Puneri Paltan,18,33,Puneri Paltan
+161,Match 40,2/22/2016,20:00,12.0,3,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Bengal Warriors,18,34,Bengal Warriors
+162,Match 41,2/23/2016,20:00,94.0,4,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Bengal Warriors,U Mumba,17,30,U Mumba
+163,Match 42,2/23/2016,21:00,326.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Patna Pirates,24,47,Patna Pirates
+165,Match 44,2/25/2016,20:00,29.0,5,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Bengaluru Bulls,18,39,Bengaluru Bulls
+167,Match 46,2/26/2016,20:00,41.0,7,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,Telugu Titans,41,24,Puneri Paltan
+1685,Match 1,7/20/2019,19:30,,5,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",U Mumba,Telugu Titans,25,31,Telugu Titans
+1686,Match 2,7/20/2019,20:30,318.0,6,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Bengaluru Bulls,34,32,Patna Pirates
+1687,Match 3,7/21/2019,19:30,318.0,31,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Fortunegiants,Bengaluru Bulls,24,42,Bengaluru Bulls
+1688,Match 4,7/21/2019,20:30,81.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Tamil Thalaivas,26,39,Tamil Thalaivas
+1689,Match 5,7/22/2019,19:30,41.0,5,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",U Mumba,Jaipur Pink Panthers,23,42,Jaipur Pink Panthers
+169,Match 48,2/27/2016,20:00,26.0,1,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Bengaluru Bulls,Puneri Paltan,27,44,Puneri Paltan
+1690,Match 6,7/22/2019,20:30,2357.0,7,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan,Haryana Steelers,24,34,Haryana Steelers
+1691,Match 7,7/24/2019,19:30,484.0,30,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddha,Bengal Warriors,17,48,Bengal Warriors
+1692,Match 8,7/24/2019,20:30,115.0,2,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C.,Telugu Titans,33,34,Telugu Titans
+1693,Match 9,7/25/2019,19:30,2296.0,29,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas,Dabang Delhi K.C.,30,29,Tamil Thalaivas
+1694,Match 10,7/26/2019,19:30,686.0,30,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddha,Gujarat Fortunegiants,19,44,Gujarat Fortunegiants
+1695,Match 11,7/26/2019,20:30,197.0,6,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Telugu Titans,22,34,Telugu Titans
+1696,Match 12,7/27/2019,19:30,2024.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Puneri Paltan,33,23,U Mumba
+1697,Match 13,7/27/2019,20:30,219.0,3,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Jaipur Pink Panthers,Bengal Warriors,27,25,Jaipur Pink Panthers
+1698,Match 14,7/28/2019,19:30,2296.0,28,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Haryana Steelers,Dabang Delhi K.C.,41,21,Haryana Steelers
+1699,Match 15,7/28/2019,20:30,318.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Bengaluru Bulls,26,30,Bengaluru Bulls
+17,Match 17,08-04-2014,20:00,105.0,7,Choice of court : Right,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,U Mumba,44,28,Puneri Paltan
+1700,Match 16,7/29/2019,19:30,81.0,6,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Tamil Thalaivas,23,24,Tamil Thalaivas
+1701,Match 17,7/29/2019,20:30,143.0,4,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Bengal Warriors,Puneri Paltan,43,23,Bengal Warriors
+1702,Match 18,7/31/2019,19:30,,28,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Haryana Steelers,Jaipur Pink Panthers,21,37,Jaipur Pink Panthers
+1703,Match 19,7/31/2019,20:30,388.0,30,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U.P. Yoddha,U Mumba,23,27,U Mumba
+1704,Match 20,08-01-2019,19:30,2296.0,2,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Dabang Delhi K.C.,Gujarat Fortunegiants,31,26,Dabang Delhi K.C.
+1706,Match 22,08-02-2019,20:30,2028.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Gujarat Fortunegiants,32,20,U Mumba
+1707,Match 23,08-03-2019,19:30,,6,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Patna Pirates,Jaipur Pink Panthers,21,34,Jaipur Pink Panthers
+1708,Match 24,08-03-2019,20:30,318.0,1,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengaluru Bulls,Bengal Warriors,42,43,Bengal Warriors
+1709,Match 25,08-04-2019,19:30,81.0,28,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Haryana Steelers,Tamil Thalaivas,28,35,Tamil Thalaivas
+171,Match 50,2/28/2016,20:00,94.0,3,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Jaipur Pink Panthers,U Mumba,35,21,Jaipur Pink Panthers
+1710,Match 26,08-04-2019,20:30,2661.0,7,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Patna Pirates,20,41,Patna Pirates
+1711,Match 27,08-05-2019,19:30,2296.0,2,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Dabang Delhi K.C.,Jaipur Pink Panthers,35,24,Dabang Delhi K.C.
+1712,Match 28,08-05-2019,20:30,757.0,31,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Gujarat Fortunegiants,Puneri Paltan,31,33,Puneri Paltan
+1714,Match 30,08-07-2019,20:30,240.0,28,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Haryana Steelers,Patna Pirates,26,35,Patna Pirates
+1715,Match 31,08-08-2019,19:30,318.0,8,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Telugu Titans,Bengaluru Bulls,26,47,Bengaluru Bulls
+1716,Match 32,08-09-2019,19:30,,5,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U Mumba,Bengal Warriors,32,30,U Mumba
+1717,Match 33,08-09-2019,20:30,197.0,30,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U.P. Yoddha,Patna Pirates,41,20,U.P. Yoddha
+1718,Match 34,08-10-2019,19:30,,29,Choice of court :Right,11,"EKA Arena by TransStadia, Ahmedabad",Tamil Thalaivas,Gujarat Fortunegiants,28,34,Gujarat Fortunegiants
+1719,Match 35,08-10-2019,20:30,2296.0,7,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",Puneri Paltan,Dabang Delhi K.C.,30,32,Dabang Delhi K.C.
+172,Match 51,2/28/2016,21:00,197.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Telugu Titans,41,42,Telugu Titans
+1720,Match 36,08-11-2019,19:30,,1,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",Haryana Steelers,Bengaluru Bulls,30,33,Bengaluru Bulls
+1721,Match 37,08-11-2019,20:30,2026.0,31,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",Gujarat Fortunegiants,Telugu Titans,24,30,Telugu Titans
+1723,Match 39,08-12-2019,20:30,318.0,1,Choice of court :Right,11,"EKA Arena by TransStadia, Ahmedabad",Bengaluru Bulls,U.P. Yoddha,35,33,Bengaluru Bulls
+1724,Match 40,8/14/2019,19:30,,30,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",U.P. Yoddha,Haryana Steelers,33,36,Haryana Steelers
+1725,Match 41,8/14/2019,20:30,219.0,4,Choice of court :Right,11,"EKA Arena by TransStadia, Ahmedabad",Bengal Warriors,Gujarat Fortunegiants,26,28,Gujarat Fortunegiants
+1726,Match 42,8/15/2019,19:30,41.0,3,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",Jaipur Pink Panthers,Puneri Paltan,33,25,Jaipur Pink Panthers
+1727,Match 43,8/16/2019,19:30,,5,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",U Mumba,Patna Pirates,34,30,U Mumba
+1728,Match 44,8/16/2019,20:30,41.0,31,Choice of court :Left,11,"EKA Arena by TransStadia, Ahmedabad",Gujarat Fortunegiants,Jaipur Pink Panthers,19,22,Jaipur Pink Panthers
+1729,Match 45,8/17/2019,19:30,,29,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,Bengaluru Bulls,21,32,Bengaluru Bulls
+173,Match 52,2/29/2016,20:00,88.0,5,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Puneri Paltan,30,27,U Mumba
+1731,Match 47,8/18/2019,19:30,,8,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Telugu Titans,Haryana Steelers,29,40,Haryana Steelers
+1732,Match 48,8/18/2019,20:30,81.0,7,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Puneri Paltan,Tamil Thalaivas,31,31,
+1733,Match 49,8/19/2019,19:30,366.0,28,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Haryana Steelers,U Mumba,27,30,U Mumba
+1734,Match 50,8/19/2019,20:30,41.0,30,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha,Jaipur Pink Panthers,31,24,U.P. Yoddha
+1735,Match 51,8/21/2019,19:30,,1,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengaluru Bulls,Puneri Paltan,31,23,Bengaluru Bulls
+1736,Match 52,8/21/2019,20:30,293.0,29,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,Jaipur Pink Panthers,26,28,Jaipur Pink Panthers
+1737,Match 53,8/22/2019,19:30,143.0,6,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Patna Pirates,Bengal Warriors,35,26,Patna Pirates
+1738,Match 54,8/23/2019,19:30,,31,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Gujarat Fortunegiants,Patna Pirates,29,26,Gujarat Fortunegiants
+1739,Match 55,8/23/2019,20:30,376.0,29,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,U Mumba,24,29,U Mumba
+174,Match 53,03-01-2016,20:00,174.0,4,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Bengal Warriors,Bengaluru Bulls,27,21,Bengal Warriors
+1740,Match 56,8/24/2019,19:30,,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Bengaluru Bulls,33,31,Dabang Delhi K.C.
+1741,Match 57,8/24/2019,20:30,2475.0,3,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Jaipur Pink Panthers,Telugu Titans,21,24,Telugu Titans
+1742,Match 58,8/25/2019,19:30,326.0,1,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Bengaluru Bulls,Jaipur Pink Panthers,30,41,Jaipur Pink Panthers
+1743,Match 59,8/25/2019,20:30,2296.0,30,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",U.P. Yoddha,Dabang Delhi K.C.,36,27,U.P. Yoddha
+1744,Match 60,8/26/2019,19:30,143.0,4,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Bengal Warriors,Haryana Steelers,33,36,Haryana Steelers
+1745,Match 61,8/26/2019,20:30,106.0,7,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,U.P. Yoddha,35,30,Puneri Paltan
+1746,Match 62,8/28/2019,19:30,,28,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Haryana Steelers,Gujarat Fortunegiants,25,41,Gujarat Fortunegiants
+1747,Match 63,8/28/2019,20:30,2296.0,5,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Dabang Delhi K.C.,40,24,U Mumba
+1748,Match 64,8/29/2019,19:30,219.0,4,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Bengal Warriors,Tamil Thalaivas,35,26,Bengal Warriors
+1749,Match 65,8/30/2019,19:30,763.0,7,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,Telugu Titans,27,34,Telugu Titans
+175,Match 54,03-01-2016,21:00,94.0,8,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Telugu Titans,U Mumba,38,22,Telugu Titans
+1750,Match 66,8/30/2019,20:30,2296.0,6,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Patna Pirates,Dabang Delhi K.C.,38,35,Patna Pirates
+1751,Match 67,8/31/2019,19:30,757.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Gujarat Fortunegiants,23,32,Gujarat Fortunegiants
+1752,Match 68,8/31/2019,20:30,2028.0,3,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Jaipur Pink Panthers,U Mumba,47,21,Jaipur Pink Panthers
+1753,Match 69,09-01-2019,19:30,106.0,4,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengal Warriors,U.P. Yoddha,32,29,Bengal Warriors
+1754,Match 70,09-01-2019,20:30,318.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Tamil Thalaivas,33,27,Bengaluru Bulls
+1755,Match 71,09-02-2019,19:30,,28,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Haryana Steelers,Puneri Paltan,27,41,Puneri Paltan
+1756,Match 72,09-02-2019,20:30,2508.0,29,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Tamil Thalaivas,Telugu Titans,35,30,Tamil Thalaivas
+1757,Match 73,09-04-2019,19:30,2296.0,2,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Dabang Delhi K.C.,Jaipur Pink Panthers,44,46,Jaipur Pink Panthers
+1758,Match 74,09-04-2019,20:30,318.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Patna Pirates,40,39,Bengaluru Bulls
+176,Match 55,03-02-2016,20:00,41.0,7,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Puneri Paltan,Bengal Warriors,43,19,Puneri Paltan
+1760,Match 76,09-06-2019,19:30,197.0,6,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Patna Pirates,U.P. Yoddha,29,41,U.P. Yoddha
+1761,Match 77,09-06-2019,20:30,2026.0,8,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Telugu Titans,Bengaluru Bulls,40,39,Telugu Titans
+1762,Match 78,09-07-2019,19:30,143.0,31,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Gujarat Fortunegiants,Bengal Warriors,25,25,
+1763,Match 79,09-07-2019,20:30,155.0,28,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Haryana Steelers,Dabang Delhi K.C.,25,47,Dabang Delhi K.C.
+1764,Match 80,09-08-2019,19:30,2296.0,2,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Dabang Delhi K.C.,Tamil Thalaivas,50,34,Dabang Delhi K.C.
+1765,Match 81,09-08-2019,20:30,2661.0,7,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Puneri Paltan,Bengal Warriors,42,39,Puneri Paltan
+1766,Match 82,09-09-2019,19:30,,30,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",U.P. Yoddha,Gujarat Fortunegiants,33,26,U.P. Yoddha
+1767,Match 83,09-09-2019,20:30,197.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Tamil Thalaivas,25,51,Tamil Thalaivas
+1769,Match 85,09-11-2019,20:30,2024.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,U Mumba,29,26,Bengal Warriors
+1770,Match 86,09-12-2019,19:30,197.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Jaipur Pink Panthers,33,36,Jaipur Pink Panthers
+1771,Match 87,09-10-2019,19:30,2024.0,8,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,U Mumba,27,41,U Mumba
+178,Semi-Final 1,03-04-2016,20:00,197.0,7,Choice of court :Right,10,"Indira Gandhi Indoor Stadium, New Delhi",Puneri Paltan,Patna Pirates,40,21,Puneri Paltan
+179,Semi-Final 2,03-04-2016,21:00,94.0,4,Choice of court :Right,10,"Indira Gandhi Indoor Stadium, New Delhi",Bengal Warriors,U Mumba,41,29,Bengal Warriors
+180,3/4 Place,03-05-2016,20:00,41.0,7,Choice of court :Left,10,"Indira Gandhi Indoor Stadium, New Delhi",Puneri Paltan,Bengal Warriors,27,31,Bengal Warriors
+181,Final,03-05-2016,21:00,326.0,6,Choice of court :Right,10,"Indira Gandhi Indoor Stadium, New Delhi",Patna Pirates,U Mumba,28,31,U Mumba
+183,Match 2,6/25/2016,21:00,88.0,5,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Jaipur Pink Panthers,35,34,U Mumba
+184,Match 3,6/26/2016,20:00,326.0,1,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Bengaluru Bulls,Bengal Warriors,24,23,Bengaluru Bulls
+185,Match 4,6/26/2016,21:00,26.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Puneri Paltan,41,19,U Mumba
+186,Match 5,6/27/2016,20:00,251.0,2,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Dabang Delhi K.C.,Bengal Warriors,31,23,Dabang Delhi K.C.
+187,Match 6,6/27/2016,21:00,197.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Puneri Paltan,24,30,Puneri Paltan
+188,Match 7,6/28/2016,20:00,41.0,2,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Dabang Delhi K.C.,Puneri Paltan,27,27,
+189,Match 8,6/29/2016,20:00,86.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Telugu Titans,28,24,Jaipur Pink Panthers
+19,Match 19,08-05-2014,20:00,94.0,5,Choice of court : Right,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Bengaluru Bulls,34,43,Bengaluru Bulls
+190,Match 9,6/29/2016,21:00,197.0,6,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Patna Pirates,U Mumba,34,36,U Mumba
+191,Match 10,6/30/2016,20:00,52.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Bengaluru Bulls,28,28,
+192,Match 11,07-01-2016,20:00,94.0,2,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Dabang Delhi K.C.,U Mumba,27,25,Dabang Delhi K.C.
+193,Match 12,07-01-2016,21:00,52.0,4,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengal Warriors,Jaipur Pink Panthers,36,33,Bengal Warriors
+194,Match 13,07-02-2016,20:00,165.0,1,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Dabang Delhi K.C.,32,24,Bengaluru Bulls
+195,Match 14,07-02-2016,21:00,41.0,7,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Puneri Paltan,Jaipur Pink Panthers,28,33,Jaipur Pink Panthers
+196,Match 15,07-03-2016,20:00,197.0,6,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Telugu Titans,33,35,Telugu Titans
+197,Match 16,07-03-2016,21:00,94.0,5,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",U Mumba,Bengal Warriors,18,26,Bengal Warriors
+198,Match 17,07-04-2016,20:00,326.0,1,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls,Puneri Paltan,29,27,Bengaluru Bulls
+199,Match 18,07-04-2016,21:00,81.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Bengal Warriors,35,18,Telugu Titans
+200,Match 19,07-05-2016,20:00,326.0,1,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls,Telugu Titans,28,30,Telugu Titans
+201,Match 20,07-06-2016,20:00,86.0,3,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers,Dabang Delhi K.C.,26,51,Dabang Delhi K.C.
+202,Match 21,07-06-2016,21:00,293.0,8,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,U Mumba,35,30,Telugu Titans
+203,Match 22,07-07-2016,20:00,197.0,6,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Patna Pirates,Bengaluru Bulls,31,25,Patna Pirates
+204,Match 23,07-08-2016,20:00,29.0,5,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U Mumba,Bengaluru Bulls,23,24,Bengaluru Bulls
+205,Match 24,07-08-2016,21:00,197.0,4,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Patna Pirates,35,21,Bengal Warriors
+206,Match 25,07-09-2016,20:00,75.0,7,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Bengal Warriors,31,38,Bengal Warriors
+207,Match 26,07-09-2016,21:00,251.0,6,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Patna Pirates,Dabang Delhi K.C.,15,33,Dabang Delhi K.C.
+208,Match 27,07-10-2016,20:00,293.0,2,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Dabang Delhi K.C.,Telugu Titans,23,28,Telugu Titans
+209,Match 28,07-10-2016,21:00,197.0,6,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Patna Pirates,Jaipur Pink Panthers,21,26,Jaipur Pink Panthers
+210,Match 29,07-12-2016,20:00,81.0,1,Choice of court :Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Telugu Titans,24,32,Telugu Titans
+212,Match 31,7/13/2016,20:00,52.0,3,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Jaipur Pink Panthers,Bengaluru Bulls,22,24,Bengaluru Bulls
+213,Match 32,7/14/2016,20:00,29.0,5,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",U Mumba,Jaipur Pink Panthers,23,29,Jaipur Pink Panthers
+214,Match 33,7/14/2016,21:00,85.0,1,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Patna Pirates,23,38,Patna Pirates
+215,Match 34,7/15/2016,20:00,81.0,7,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Puneri Paltan,Telugu Titans,32,29,Puneri Paltan
+216,Match 35,7/15/2016,21:00,58.0,2,Choice of court :Left,1,"Sree Kanteerava Stadium, Bengaluru",Dabang Delhi K.C.,Bengaluru Bulls,20,40,Bengaluru Bulls
+217,Match 36,7/16/2016,20:00,12.0,3,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Jaipur Pink Panthers,Bengal Warriors,32,25,Jaipur Pink Panthers
+218,Match 37,7/16/2016,21:00,85.0,6,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,U Mumba,34,24,Patna Pirates
+219,Match 38,7/17/2016,20:00,86.0,3,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Jaipur Pink Panthers,Puneri Paltan,27,33,Puneri Paltan
+22,Match 22,08-07-2014,20:00,88.0,7,Choice of court : Right,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Patna Pirates,30,27,Puneri Paltan
+220,Match 39,7/17/2016,21:00,197.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Bengal Warriors,27,33,Bengal Warriors
+221,Match 40,7/18/2016,20:00,12.0,8,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Bengal Warriors,34,34,
+222,Match 41,7/19/2016,20:00,81.0,8,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Dabang Delhi K.C.,36,28,Telugu Titans
+223,Match 42,7/19/2016,21:00,326.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,Bengaluru Bulls,25,27,Bengaluru Bulls
+224,Match 43,7/20/2016,20:00,29.0,7,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Puneri Paltan,U Mumba,34,31,Puneri Paltan
+225,Match 44,7/21/2016,20:00,,2,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Dabang Delhi K.C.,Jaipur Pink Panthers,24,22,Dabang Delhi K.C.
+226,Match 45,7/21/2016,21:00,81.0,8,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Telugu Titans,U Mumba,25,25,
+227,Match 46,7/22/2016,20:00,389.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Jaipur Pink Panthers,29,22,Patna Pirates
+228,Match 47,7/22/2016,21:00,12.0,4,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Bengal Warriors,U Mumba,27,31,U Mumba
+229,Match 48,7/23/2016,20:00,197.0,7,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Puneri Paltan,Patna Pirates,31,28,Puneri Paltan
+23,Match 23,08-08-2014,20:00,75.0,4,Choice of court : Right,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Telugu Titans,40,35,Bengal Warriors
+230,Match 49,7/23/2016,21:00,326.0,5,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Bengaluru Bulls,27,28,Bengaluru Bulls
+231,Match 50,7/24/2016,20:00,58.0,4,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Bengal Warriors,Dabang Delhi K.C.,41,20,Bengal Warriors
+232,Match 51,7/24/2016,21:00,81.0,8,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Telugu Titans,Jaipur Pink Panthers,35,23,Telugu Titans
+233,Match 52,7/25/2016,20:00,197.0,6,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Patna Pirates,Dabang Delhi K.C.,31,32,Dabang Delhi K.C.
+234,Match 53,7/26/2016,20:00,81.0,8,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Telugu Titans,Patna Pirates,25,46,Patna Pirates
+235,Match 54,7/26/2016,21:00,41.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Puneri Paltan,34,39,Puneri Paltan
+236,Match 55,7/27/2016,20:00,41.0,1,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Bengaluru Bulls,Puneri Paltan,36,33,Bengaluru Bulls
+237,Match 56,7/27/2016,21:00,94.0,5,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Dabang Delhi K.C.,34,38,Dabang Delhi K.C.
+238,Semi-Final 1,7/29/2016,20:00,249.0,6,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Puneri Paltan,37,33,Patna Pirates
+239,Semi-Final 2,7/29/2016,21:00,52.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Jaipur Pink Panthers,24,34,Jaipur Pink Panthers
+240,3/4 Place,7/31/2016,20:00,81.0,8,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Puneri Paltan,35,40,Puneri Paltan
+241,Final,7/31/2016,21:15,197.0,6,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Jaipur Pink Panthers,37,28,Patna Pirates
+25,Match 25,08-09-2014,20:00,52.0,8,Choice of court : Left,6,"Patliputra Sports Complex, Patna",Telugu Titans,Jaipur Pink Panthers,28,46,Jaipur Pink Panthers
+27,Match 27,08-10-2014,20:00,52.0,4,Choice of court : Left,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Jaipur Pink Panthers,39,22,Bengal Warriors
+28,Match 28,08-10-2014,21:00,26.0,1,Choice of court : Left,6,"Patliputra Sports Complex, Patna",Bengaluru Bulls,Patna Pirates,35,37,Patna Pirates
+286,Match 1,7/28/2017,20:00,81.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Tamil Thalaivas,32,27,Telugu Titans
+287,Match 2,7/28/2017,21:00,41.0,5,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",U Mumba,Puneri Paltan,21,33,Puneri Paltan
+288,Match 3,7/29/2017,20:00,251.0,3,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers,Dabang Delhi K.C.,26,30,Dabang Delhi K.C.
+289,Match 4,7/29/2017,21:00,197.0,6,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates,Telugu Titans,29,35,Telugu Titans
+29,Match 29,08-12-2014,20:00,111.0,8,Choice of court : Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Telugu Titans,Puneri Paltan,36,42,Puneri Paltan
+290,Match 5,7/30/2017,20:00,58.0,28,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers,U Mumba,29,28,Haryana Steelers
+291,Match 6,7/30/2017,21:00,326.0,1,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls,Telugu Titans,21,31,Telugu Titans
+292,Match 7,08-01-2017,20:00,718.0,31,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Fortunegiants,Dabang Delhi K.C.,26,20,Gujarat Fortunegiants
+293,Match 8,08-01-2017,21:00,,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,U.P. Yoddha,18,31,U.P. Yoddha
+295,Match 10,08-02-2017,21:00,143.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Bengal Warriors,24,30,Bengal Warriors
+296,Match 11,08-03-2017,20:00,197.0,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Patna Pirates,36,43,Patna Pirates
+297,Match 12,08-04-2017,20:00,,1,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Bengaluru Bulls,Tamil Thalaivas,32,31,Bengaluru Bulls
+298,Match 13,08-04-2017,21:00,85.0,7,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Puneri Paltan,Dabang Delhi K.C.,26,21,Puneri Paltan
+299,Match 14,08-05-2017,20:00,29.0,5,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",U Mumba,Dabang Delhi K.C.,36,22,U Mumba
+3,Match 3,7/27/2014,20:00,26.0,1,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",Bengaluru Bulls,Puneri Paltan,39,36,Bengaluru Bulls
+30,Match 30,8/13/2014,20:00,85.0,1,Choice of court : Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,U Mumba,30,31,U Mumba
+300,Match 15,08-05-2017,21:00,326.0,30,Choice of court :Right,17,"Mankapur Indoor Stadium, Nagpur",U.P. Yoddha,Bengaluru Bulls,27,32,Bengaluru Bulls
+301,Match 16,08-06-2017,20:00,712.0,30,Choice of court :Right,17,"Mankapur Indoor Stadium, Nagpur",U.P. Yoddha,Bengal Warriors,41,19,U.P. Yoddha
+302,Match 17,08-06-2017,21:00,197.0,1,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Bengaluru Bulls,Patna Pirates,32,46,Patna Pirates
+303,Match 18,08-08-2017,20:00,366.0,31,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Gujarat Fortunegiants,Haryana Steelers,20,32,Haryana Steelers
+304,Match 19,08-08-2017,21:00,81.0,1,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Bengaluru Bulls,Telugu Titans,21,21,
+305,Match 20,08-09-2017,20:00,389.0,1,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Bengaluru Bulls,Bengal Warriors,31,25,Bengaluru Bulls
+306,Match 21,08-10-2017,20:00,,3,Choice of court :Right,17,"Mankapur Indoor Stadium, Nagpur",Jaipur Pink Panthers,Puneri Paltan,28,30,Puneri Paltan
+307,Match 22,08-10-2017,21:00,326.0,1,Choice of court :Left,17,"Mankapur Indoor Stadium, Nagpur",Bengaluru Bulls,Tamil Thalaivas,24,29,Tamil Thalaivas
+308,Match 23,08-11-2017,20:00,686.0,31,Choice of court :Left,11,"The Arena, Ahmedabad",Gujarat Fortunegiants,U Mumba,39,21,Gujarat Fortunegiants
+309,Match 24,08-12-2017,20:00,,8,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Telugu Titans,U.P. Yoddha,32,39,U.P. Yoddha
+31,Match 31,8/13/2014,21:00,124.0,7,Choice of court : Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Bengal Warriors,39,29,Puneri Paltan
+310,Match 25,08-12-2017,21:00,757.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Dabang Delhi K.C.,29,25,Gujarat Fortunegiants
+312,Match 27,8/13/2017,21:00,757.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Jaipur Pink Panthers,27,20,Gujarat Fortunegiants
+313,Match 28,8/15/2017,20:00,772.0,7,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",Puneri Paltan,Bengal Warriors,17,34,Bengal Warriors
+314,Match 29,8/15/2017,21:00,326.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Bengaluru Bulls,27,24,Gujarat Fortunegiants
+316,Match 31,8/16/2017,21:00,757.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Telugu Titans,29,19,Gujarat Fortunegiants
+317,Match 32,8/17/2017,20:00,26.0,2,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Dabang Delhi K.C.,Tamil Thalaivas,30,29,Dabang Delhi K.C.
+318,Match 33,8/17/2017,21:00,757.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Bengal Warriors,26,26,
+319,Match 34,8/18/2017,20:00,94.0,5,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U Mumba,U.P. Yoddha,34,37,U.P. Yoddha
+320,Match 35,8/18/2017,21:00,326.0,3,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",Jaipur Pink Panthers,Bengaluru Bulls,28,30,Bengaluru Bulls
+321,Match 36,8/19/2017,20:00,81.0,5,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U Mumba,Telugu Titans,37,32,U Mumba
+322,Match 37,8/19/2017,21:00,366.0,30,Choice of court :Right,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U.P. Yoddha,Haryana Steelers,29,36,Haryana Steelers
+323,Match 38,8/20/2017,20:00,197.0,7,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",Puneri Paltan,Patna Pirates,42,47,Patna Pirates
+324,Match 39,8/20/2017,21:00,320.0,30,Choice of court :Right,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U.P. Yoddha,Jaipur Pink Panthers,22,24,Jaipur Pink Panthers
+325,Match 40,8/22/2017,20:00,111.0,7,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",Puneri Paltan,Gujarat Fortunegiants,35,21,Puneri Paltan
+326,Match 41,8/22/2017,21:00,211.0,30,Choice of court :Right,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U.P. Yoddha,Bengal Warriors,31,32,Bengal Warriors
+327,Match 42,8/23/2017,20:00,174.0,2,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",Dabang Delhi K.C.,Haryana Steelers,27,25,Dabang Delhi K.C.
+328,Match 43,8/23/2017,21:00,94.0,29,Choice of court :Left,13,"Babu Banarasi Das Indoor Stadium, Lucknow",Tamil Thalaivas,U.P. Yoddha,33,33,
+329,Match 44,8/24/2017,20:00,320.0,30,Choice of court :Right,13,"Babu Banarasi Das Indoor Stadium, Lucknow",U.P. Yoddha,Telugu Titans,25,23,U.P. Yoddha
+33,Match 33,8/14/2014,21:00,143.0,7,Choice of court : Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Jaipur Pink Panthers,23,50,Jaipur Pink Panthers
+330,Match 45,8/25/2017,20:00,52.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Jaipur Pink Panthers,36,39,Jaipur Pink Panthers
+332,Match 47,8/26/2017,20:00,,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Tamil Thalaivas,35,24,Patna Pirates
+333,Match 48,8/26/2017,21:00,41.0,7,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Puneri Paltan,U Mumba,24,26,U Mumba
+334,Match 49,8/27/2017,20:00,12.0,4,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Bengal Warriors,Bengaluru Bulls,32,26,Bengal Warriors
+335,Match 50,8/27/2017,21:00,29.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Dabang Delhi K.C.,32,33,Dabang Delhi K.C.
+336,Match 51,10/17/2017,20:00,326.0,30,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U.P. Yoddha,Bengaluru Bulls,64,24,U.P. Yoddha
+337,Match 52,9/20/2017,20:00,757.0,5,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",U Mumba,Gujarat Fortunegiants,23,45,Gujarat Fortunegiants
+338,Match 53,8/30/2017,20:00,29.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Haryana Steelers,38,32,U Mumba
+339,Match 54,8/31/2017,20:00,26.0,29,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Tamil Thalaivas,Telugu Titans,33,28,Tamil Thalaivas
+340,Match 55,8/31/2017,21:00,58.0,3,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Jaipur Pink Panthers,U Mumba,36,32,Jaipur Pink Panthers
+341,Match 56,09-01-2017,20:00,143.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Bengal Warriors,41,38,Patna Pirates
+342,Match 57,09-02-2017,20:00,155.0,28,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Haryana Steelers,Gujarat Fortunegiants,36,42,Gujarat Fortunegiants
+343,Match 58,09-02-2017,21:00,320.0,30,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",U.P. Yoddha,Bengal Warriors,26,26,
+344,Match 59,09-03-2017,20:00,52.0,31,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Gujarat Fortunegiants,Jaipur Pink Panthers,25,31,Jaipur Pink Panthers
+345,Match 60,09-03-2017,21:00,143.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,Tamil Thalaivas,29,25,Bengal Warriors
+346,Match 61,09-05-2017,20:00,197.0,6,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Jaipur Pink Panthers,47,21,Patna Pirates
+347,Match 62,09-05-2017,21:00,143.0,28,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Haryana Steelers,Bengal Warriors,29,36,Bengal Warriors
+348,Match 63,09-06-2017,20:00,251.0,1,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengaluru Bulls,Dabang Delhi K.C.,38,30,Bengaluru Bulls
+349,Match 64,09-06-2017,21:00,143.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,U Mumba,31,37,U Mumba
+35,Match 35,8/15/2014,21:00,88.0,7,Choice of court : Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Patna Pirates,30,37,Patna Pirates
+350,Match 65,09-07-2017,20:00,41.0,7,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Puneri Paltan,Telugu Titans,37,42,Telugu Titans
+351,Match 66,09-07-2017,21:00,,2,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Dabang Delhi K.C.,Bengal Warriors,31,31,
+352,Match 67,09-08-2017,20:00,388.0,6,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Patna Pirates,Haryana Steelers,41,41,
+354,Match 69,09-09-2017,20:00,197.0,6,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Patna Pirates,U Mumba,41,51,U Mumba
+355,Match 70,09-09-2017,21:00,155.0,1,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Bengaluru Bulls,Haryana Steelers,38,31,Bengaluru Bulls
+356,Match 71,09-10-2017,20:00,389.0,7,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Puneri Paltan,Bengaluru Bulls,24,20,Puneri Paltan
+357,Match 72,09-10-2017,21:00,81.0,8,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Telugu Titans,Haryana Steelers,19,37,Haryana Steelers
+358,Match 73,09-12-2017,20:00,12.0,4,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Bengal Warriors,Telugu Titans,32,31,Bengal Warriors
+359,Match 74,09-12-2017,21:00,124.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,Dabang Delhi K.C.,27,24,Haryana Steelers
+360,Match 75,9/13/2017,20:00,320.0,30,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",U.P. Yoddha,Tamil Thalaivas,34,33,U.P. Yoddha
+361,Match 76,9/13/2017,21:00,41.0,7,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Puneri Paltan,Haryana Steelers,22,38,Haryana Steelers
+362,Match 77,9/14/2017,20:00,791.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,Jaipur Pink Panthers,27,27,
+363,Match 78,9/15/2017,20:00,197.0,6,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Patna Pirates,Telugu Titans,46,30,Patna Pirates
+364,Match 79,9/15/2017,21:00,757.0,5,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",U Mumba,Gujarat Fortunegiants,28,39,Gujarat Fortunegiants
+366,Match 81,9/16/2017,21:00,197.0,6,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Patna Pirates,U.P. Yoddha,45,42,Patna Pirates
+367,Match 82,9/17/2017,20:00,791.0,3,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Jaipur Pink Panthers,Dabang Delhi K.C.,36,25,Jaipur Pink Panthers
+368,Match 83,9/17/2017,21:00,143.0,6,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Patna Pirates,Bengal Warriors,37,37,
+369,match 84,9/19/2017,20:00,119.0,28,Choice of court :Right,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Haryana Steelers,Puneri Paltan,37,25,Haryana Steelers
+37,Match 37,8/16/2014,21:00,52.0,4,Choice of court : Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",Bengal Warriors,Jaipur Pink Panthers,32,39,Jaipur Pink Panthers
+370,Match 85,9/19/2017,21:00,388.0,6,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Patna Pirates,Bengaluru Bulls,36,32,Patna Pirates
+371,Match 86,9/20/2017,21:00,388.0,6,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Patna Pirates,Tamil Thalaivas,41,39,Patna Pirates
+372,Match 87,9/21/2017,20:00,124.0,3,Choice of court :Left,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",Jaipur Pink Panthers,Haryana Steelers,26,30,Haryana Steelers
+373,Match 88,9/21/2017,21:00,320.0,30,Choice of court :Right,15,"Harivansh Tana Bhagat Indoor Stadium, Ranchi",U.P. Yoddha,Patna Pirates,41,46,Patna Pirates
+374,Match 89,9/22/2017,20:00,106.0,5,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Dabang Delhi K.C.,28,30,Dabang Delhi K.C.
+375,Match 90,9/23/2017,20:00,372.0,4,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Bengal Warriors,Bengaluru Bulls,29,33,Bengaluru Bulls
+376,Match 91,9/23/2017,21:00,41.0,7,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Puneri Paltan,Dabang Delhi K.C.,29,34,Dabang Delhi K.C.
+377,Match 92,9/24/2017,20:00,143.0,29,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Tamil Thalaivas,Bengal Warriors,32,33,Bengal Warriors
+378,Match 93,9/24/2017,21:00,174.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Haryana Steelers,24,42,Haryana Steelers
+379,Match 94,9/26/2017,20:00,26.0,31,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Gujarat Fortunegiants,Tamil Thalaivas,34,35,Tamil Thalaivas
+38,Match 38,8/17/2014,20:00,142.0,3,Choice of court : Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Jaipur Pink Panthers,Patna Pirates,30,51,Patna Pirates
+380,Match 95,9/26/2017,21:00,197.0,6,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Patna Pirates,Dabang Delhi K.C.,34,36,Dabang Delhi K.C.
+381,Match 96,9/27/2017,20:00,738.0,3,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Jaipur Pink Panthers,Telugu Titans,41,34,Jaipur Pink Panthers
+382,Match 97,9/27/2017,21:00,320.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,U.P. Yoddha,16,45,U.P. Yoddha
+383,Match 98,9/28/2017,20:00,58.0,1,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Bengaluru Bulls,U Mumba,30,42,U Mumba
+384,Match 99,9/28/2017,21:00,81.0,2,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Telugu Titans,22,44,Telugu Titans
+385,Match 100,9/29/2017,20:00,41.0,29,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,Puneri Paltan,20,33,Puneri Paltan
+386,Match 101,9/29/2017,21:00,579.0,6,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Patna Pirates,Gujarat Fortunegiants,30,29,Patna Pirates
+387,Match 102,9/30/2017,20:00,41.0,7,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Puneri Paltan,U.P. Yoddha,34,33,Puneri Paltan
+388,Match 103,9/30/2017,21:00,26.0,3,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Jaipur Pink Panthers,Tamil Thalaivas,26,27,Tamil Thalaivas
+389,Match 104,10-01-2017,20:00,143.0,4,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengal Warriors,Jaipur Pink Panthers,31,32,Jaipur Pink Panthers
+39,Match 39,8/17/2014,21:00,81.0,5,Choice of court : Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",U Mumba,Telugu Titans,44,42,U Mumba
+390,Match 105,10-01-2017,21:00,29.0,5,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U Mumba,Tamil Thalaivas,30,33,Tamil Thalaivas
+391,Match 106,10-03-2017,20:00,757.0,2,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Dabang Delhi K.C.,Gujarat Fortunegiants,22,42,Gujarat Fortunegiants
+392,Match 107,10-03-2017,21:00,81.0,29,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,Telugu Titans,37,58,Telugu Titans
+393,Match 108,10-04-2017,20:00,174.0,5,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U Mumba,Haryana Steelers,30,41,Haryana Steelers
+394,Match 109,10-04-2017,21:00,320.0,30,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha,Tamil Thalaivas,33,37,Tamil Thalaivas
+395,Match 110,10-05-2017,20:00,326.0,29,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas,Bengaluru Bulls,35,45,Bengaluru Bulls
+396,Match 111,10-06-2017,20:00,36.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Gujarat Fortunegiants,23,29,Gujarat Fortunegiants
+397,Match 112,10-06-2017,21:00,143.0,4,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengal Warriors,Puneri Paltan,19,25,Puneri Paltan
+398,Match 113,10-07-2017,20:00,124.0,8,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Telugu Titans,Haryana Steelers,32,30,Telugu Titans
+399,Match 114,10-07-2017,21:00,52.0,5,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",U Mumba,Jaipur Pink Panthers,36,32,U Mumba
+4,Match 4,7/27/2014,21:00,105.0,4,Choice of court : Left,5,"DOME@NSCI SVP Stadium, Mumbai",Bengal Warriors,U Mumba,36,25,Bengal Warriors
+40,Match 40,8/18/2014,20:00,142.0,6,Choice of court : Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Patna Pirates,Bengal Warriors,28,30,Bengal Warriors
+400,Match 115,10-08-2017,20:00,163.0,31,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Gujarat Fortunegiants,Patna Pirates,33,29,Gujarat Fortunegiants
+401,Match 116,10-08-2017,21:00,85.0,7,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Puneri Paltan,Jaipur Pink Panthers,30,38,Jaipur Pink Panthers
+402,Match 117,10-10-2017,20:00,26.0,29,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Tamil Thalaivas,U Mumba,35,38,U Mumba
+403,Match 118,10-10-2017,21:00,791.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Dabang Delhi K.C.,34,36,Dabang Delhi K.C.
+404,Match 119,10-11-2017,20:00,326.0,1,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Dabang Delhi K.C.,32,35,Dabang Delhi K.C.
+405,Match 120,10-11-2017,21:00,155.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Haryana Steelers,27,37,Haryana Steelers
+406,Match 121,10-12-2017,20:00,94.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,U.P. Yoddha,32,53,U.P. Yoddha
+407,Match 122,10/13/2017,20:00,111.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Gujarat Fortunegiants,20,44,Gujarat Fortunegiants
+408,Match 123,10/13/2017,21:00,143.0,4,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengal Warriors,Tamil Thalaivas,34,30,Bengal Warriors
+409,Match 124,10/14/2017,20:00,26.0,6,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Patna Pirates,Tamil Thalaivas,40,37,Patna Pirates
+41,Match 41,8/18/2014,21:00,41.0,8,Choice of court : Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Telugu Titans,Puneri Paltan,59,24,Telugu Titans
+410,Match 125,10/14/2017,21:00,41.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,U Mumba,43,24,Puneri Paltan
+411,Match 126,10/15/2017,20:00,326.0,30,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U.P. Yoddha,Bengaluru Bulls,38,32,U.P. Yoddha
+412,Match 127,10/15/2017,21:00,41.0,2,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C.,Puneri Paltan,34,31,Dabang Delhi K.C.
+413,Match 128,10/17/2017,21:00,155.0,28,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Haryana Steelers,Puneri Paltan,27,31,Puneri Paltan
+415,Match 130,10/18/2017,21:00,41.0,3,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Jaipur Pink Panthers,Puneri Paltan,38,15,Jaipur Pink Panthers
+417,Match 132,10/20/2017,21:00,757.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Gujarat Fortunegiants,22,23,Gujarat Fortunegiants
+418,Eliminator 1,10/23/2017,20:00,94.0,30,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U.P. Yoddha,Puneri Paltan,40,38,U.P. Yoddha
+419,Eliminator 2,10/23/2017,21:00,197.0,28,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Haryana Steelers,Patna Pirates,69,30,Haryana Steelers
+420,Qualifier 1,10/24/2017,20:00,163.0,31,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Gujarat Fortunegiants,Bengal Warriors,42,17,Gujarat Fortunegiants
+421,Eliminator 3,10/24/2017,21:00,197.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Puneri Paltan,32,42,Puneri Paltan
+422,Qualifier 2,10/26/2017,20:00,197.0,6,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Patna Pirates,Bengal Warriors,44,47,Bengal Warriors
+423,Final,10/28/2017,20:00,197.0,31,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Gujarat Fortunegiants,Patna Pirates,38,55,Patna Pirates
+43,Match 43,8/20/2014,20:00,86.0,1,Choice of court : Right,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Jaipur Pink Panthers,36,31,Bengaluru Bulls
+44,Match 44,8/21/2014,20:00,92.0,6,Choice of court : Right,3,"Sawai Mansingh Stadium, Jaipur",Patna Pirates,Bengal Warriors,32,35,Bengal Warriors
+48,Match 48,8/23/2014,20:00,111.0,8,Choice of court : Right,3,"Sawai Mansingh Stadium, Jaipur",Telugu Titans,Patna Pirates,29,32,Patna Pirates
+49,Match 49,8/23/2014,21:00,143.0,7,Choice of court : Right,3,"Sawai Mansingh Stadium, Jaipur",Puneri Paltan,Jaipur Pink Panthers,33,27,Puneri Paltan
+50,Match 50,8/24/2014,20:00,26.0,1,Choice of court : Left,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Bengal Warriors,36,24,Bengaluru Bulls
+53,Match 53,8/25/2014,21:00,92.0,6,Choice of court : Right,1,"Sree Kanteerava Stadium, Bengaluru",Patna Pirates,Bengaluru Bulls,31,32,Bengaluru Bulls
+54,Match 54,8/26/2014,20:00,111.0,1,Choice of court : Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Telugu Titans,27,26,Bengaluru Bulls
+55,Match 55,8/27/2014,20:00,124.0,7,Choice of court : Left,1,"Sree Kanteerava Stadium, Bengaluru",Puneri Paltan,U Mumba,34,36,U Mumba
+56,Match 56,8/27/2014,21:00,174.0,1,Choice of court : Right,1,"Sree Kanteerava Stadium, Bengaluru",Bengaluru Bulls,Jaipur Pink Panthers,30,29,Bengaluru Bulls
+57,Semi-Final 1,8/29/2014,20:00,52.0,3,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",Jaipur Pink Panthers,Patna Pirates,38,18,Jaipur Pink Panthers
+58,Semi-Final 2,8/29/2014,21:00,26.0,5,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Bengaluru Bulls,27,23,U Mumba
+59,3rd Place Playoff,8/31/2014,20:00,92.0,6,Choice of court : Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Bengaluru Bulls,28,22,Patna Pirates
+60,Final,8/31/2014,21:00,143.0,5,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Jaipur Pink Panthers,35,23,U Mumba
+62,Match 1,7/18/2015,20:00,52.0,3,Choice of court :Left,5,"National Sports Club of India, Mumbai",Jaipur Pink Panthers,U Mumba,29,28,Jaipur Pink Panthers
+625,Match 1,10-07-2018,20:00,26.0,6,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Patna Pirates,Tamil Thalaivas,42,26,Patna Pirates
+627,Match 3,10-08-2018,20:00,320.0,7,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Puneri Paltan,Haryana Steelers,34,22,Puneri Paltan
+628,Match 4,10-08-2018,21:00,26.0,30,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha,Tamil Thalaivas,32,37,Tamil Thalaivas
+63,Match 2,7/18/2015,21:00,26.0,1,Choice of court :Right,5,"National Sports Club of India, Mumbai",Bengaluru Bulls,Bengal Warriors,33,25,Bengaluru Bulls
+630,Match 6,10-09-2018,21:00,81.0,8,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Telugu Titans,Tamil Thalaivas,28,33,Tamil Thalaivas
+631,Match 7,10-10-2018,20:00,2026.0,3,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Jaipur Pink Panthers,U Mumba,39,32,Jaipur Pink Panthers
+632,Match 8,10-10-2018,21:00,318.0,1,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengaluru Bulls,Tamil Thalaivas,37,48,Tamil Thalaivas
+633,Match 58,11-11-2018,20:00,41.0,2,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Dabang Delhi K.C.,Jaipur Pink Panthers,29,40,Jaipur Pink Panthers
+634,Match 10,10-11-2018,21:00,143.0,4,Choice of court :Right,16,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengal Warriors,Tamil Thalaivas,27,36,Tamil Thalaivas
+635,Match 84,11/26/2018,21:00,106.0,1,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,U.P. Yoddha,37,27,Bengaluru Bulls
+636,Match 11,10-12-2018,20:00,388.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,Gujarat Fortunegiants,32,25,Haryana Steelers
+637,Match 15,10/14/2018,20:00,106.0,6,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Patna Pirates,U.P. Yoddha,43,37,Patna Pirates
+638,Match 12,10-12-2018,21:00,320.0,7,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Puneri Paltan,Dabang Delhi K.C.,37,41,Dabang Delhi K.C.
+639,Match 14,10/13/2018,21:00,2028.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,U Mumba,26,53,U Mumba
+640,Match 13,10/13/2018,20:00,81.0,8,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Telugu Titans,U.P. Yoddha,34,29,Telugu Titans
+641,Match 16,10/14/2018,21:00,320.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,Puneri Paltan,27,45,Puneri Paltan
+642,Match 17,10/16/2018,20:00,143.0,8,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Telugu Titans,Bengal Warriors,30,25,Telugu Titans
+643,Match 18,10/16/2018,21:00,2357.0,3,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Jaipur Pink Panthers,Haryana Steelers,33,36,Haryana Steelers
+644,Match 19,10/17/2018,20:00,318.0,29,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Tamil Thalaivas,Bengaluru Bulls,44,35,Tamil Thalaivas
+645,Match 20,10/17/2018,21:00,2026.0,28,Choice of court :Left,14,"Motilal Nehru School of Sports, Rai, Sonepat",Haryana Steelers,U Mumba,32,42,U Mumba
+646,Match 21,10/18/2018,20:00,366.0,2,Choice of court :Right,14,"Motilal Nehru School of Sports, Rai, Sonepat",Dabang Delhi K.C.,Haryana Steelers,34,31,Dabang Delhi K.C.
+647,Match 22,10/18/2018,21:00,757.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Gujarat Fortunegiants,28,34,Gujarat Fortunegiants
+648,Match 23,10/19/2018,20:00,81.0,8,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Telugu Titans,Patna Pirates,31,35,Patna Pirates
+649,Match 24,10/19/2018,21:00,795.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Jaipur Pink Panthers,29,25,Puneri Paltan
+65,Match 4,7/19/2015,21:00,105.0,1,Choice of court :Left,5,"National Sports Club of India, Mumbai",Bengaluru Bulls,U Mumba,36,23,Bengaluru Bulls
+651,Match 26,10/20/2018,21:00,2026.0,5,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba,Puneri Paltan,33,32,U Mumba
+652,Match 27,10/21/2018,20:00,2296.0,2,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C.,Bengal Warriors,39,30,Dabang Delhi K.C.
+653,Match 28,10/21/2018,21:00,365.0,1,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,Puneri Paltan,27,25,Bengaluru Bulls
+654,Match 29,10/23/2018,20:00,2026.0,5,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba,Telugu Titans,41,20,U Mumba
+655,Match 30,10/23/2018,21:00,26.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Tamil Thalaivas,31,36,Tamil Thalaivas
+656,Match 31,10/24/2018,20:00,318.0,28,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Haryana Steelers,Bengaluru Bulls,42,34,Haryana Steelers
+657,Match 32,10/24/2018,21:00,155.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,U.P. Yoddha,23,29,U.P. Yoddha
+658,Match 33,10/26/2018,20:00,197.0,3,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Jaipur Pink Panthers,Patna Pirates,41,30,Jaipur Pink Panthers
+659,Match 34,10/26/2018,21:00,757.0,29,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Tamil Thalaivas,Gujarat Fortunegiants,36,25,Tamil Thalaivas
+66,Match 5,7/20/2015,20:00,81.0,7,Choice of court :Right,5,"National Sports Club of India, Mumbai",Puneri Paltan,Telugu Titans,24,45,Telugu Titans
+660,Match 35,10/27/2018,20:00,66.0,4,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Jaipur Pink Panthers,28,39,Jaipur Pink Panthers
+661,Match 36,10/27/2018,21:00,197.0,5,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U Mumba,Patna Pirates,39,40,Patna Pirates
+662,Match 37,10/28/2018,20:00,106.0,30,Choice of court :Left,6,"Patliputra Sports Complex, Patna",U.P. Yoddha,Dabang Delhi K.C.,36,38,Dabang Delhi K.C.
+663,Match 38,10/28/2018,21:00,366.0,28,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Haryana Steelers,Patna Pirates,32,43,Patna Pirates
+664,Match 39,10/30/2018,20:00,757.0,7,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Gujarat Fortunegiants,27,37,Gujarat Fortunegiants
+665,Match 40,10/30/2018,21:00,81.0,8,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Telugu Titans,Patna Pirates,32,53,Patna Pirates
+666,Match 41,10/31/2018,20:00,2296.0,7,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Dabang Delhi K.C.,27,31,Dabang Delhi K.C.
+667,Match 42,10/31/2018,21:00,318.0,1,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengaluru Bulls,Patna Pirates,41,43,Patna Pirates
+668,Match 43,11-01-2018,20:00,211.0,4,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Bengal Warriors,Patna Pirates,29,27,Bengal Warriors
+669,Match 44,11-02-2018,20:00,111.0,29,Choice of court :Right,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Tamil Thalaivas,U.P. Yoddha,24,46,U.P. Yoddha
+67,Match 6,7/20/2015,21:00,29.0,6,Choice of court :Left,5,"National Sports Club of India, Mumbai",Patna Pirates,U Mumba,25,20,Patna Pirates
+670,Match 45,11-02-2018,21:00,686.0,31,Choice of court :Right,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Gujarat Fortunegiants,Jaipur Pink Panthers,25,36,Jaipur Pink Panthers
+671,Match 46,11-03-2018,20:00,2028.0,5,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U Mumba,Puneri Paltan,31,22,U Mumba
+672,Match 47,11-03-2018,21:00,326.0,30,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha,Bengaluru Bulls,29,35,Bengaluru Bulls
+673,Match 48,11-04-2018,20:00,522.0,2,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Dabang Delhi K.C.,Gujarat Fortunegiants,38,45,Gujarat Fortunegiants
+674,Match 49,11-04-2018,21:00,143.0,30,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha,Bengal Warriors,30,30,
+675,Match 50,11-06-2018,20:00,41.0,28,Choice of court :Right,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Haryana Steelers,Jaipur Pink Panthers,38,32,Haryana Steelers
+676,Match 51,11-06-2018,21:00,106.0,8,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Telugu Titans,U.P. Yoddha,26,26,
+677,Match 9,10-11-2018,20:00,197.0,30,Choice of court :Left,16,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha,Patna Pirates,41,43,Patna Pirates
+678,Match 52,11-08-2018,20:00,388.0,28,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Haryana Steelers,Dabang Delhi K.C.,33,39,Dabang Delhi K.C.
+679,Match 53,11-08-2018,21:00,318.0,30,Choice of court :Left,23,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha,Bengaluru Bulls,27,37,Bengaluru Bulls
+68,Match 7,7/21/2015,20:00,105.0,7,Choice of court :Left,5,"National Sports Club of India, Mumbai",Puneri Paltan,U Mumba,28,21,Puneri Paltan
+680,Match 54,11-09-2018,20:00,324.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Jaipur Pink Panthers,48,24,U Mumba
+681,Match 55,11-09-2018,21:00,143.0,8,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Telugu Titans,Bengal Warriors,30,25,Telugu Titans
+682,Match 56,11-10-2018,20:00,197.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Bengal Warriors,50,30,Patna Pirates
+683,Match 57,11-10-2018,21:00,2026.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Gujarat Fortunegiants,36,38,Gujarat Fortunegiants
+684,Match 59,11-11-2018,21:00,366.0,5,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Haryana Steelers,31,35,Haryana Steelers
+685,Match 60,11/13/2018,20:00,81.0,8,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Telugu Titans,Puneri Paltan,25,28,Puneri Paltan
+686,Match 61,11/13/2018,21:00,2026.0,30,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",U.P. Yoddha,U Mumba,41,24,U.P. Yoddha
+688,Match 63,11/14/2018,21:00,324.0,1,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Bengaluru Bulls,U Mumba,32,29,Bengaluru Bulls
+689,Match 64,11/15/2018,20:00,197.0,6,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Patna Pirates,Dabang Delhi K.C.,38,35,Patna Pirates
+69,Match 8,7/22/2015,20:00,52.0,3,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Jaipur Pink Panthers,Bengal Warriors,28,26,Jaipur Pink Panthers
+690,Match 65,11/15/2018,21:00,26.0,29,Choice of court :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Tamil Thalaivas,U Mumba,36,22,Tamil Thalaivas
+691,Match 66,11/16/2018,20:00,219.0,4,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",Bengal Warriors,Gujarat Fortunegiants,35,23,Bengal Warriors
+692,Match 67,11/16/2018,21:00,2475.0,3,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Jaipur Pink Panthers,U.P. Yoddha,45,28,Jaipur Pink Panthers
+693,Match 68,11/17/2018,20:00,772.0,4,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",Bengal Warriors,Puneri Paltan,22,26,Puneri Paltan
+694,Match 69,11/17/2018,21:00,757.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,Bengaluru Bulls,30,30,
+695,Match 70,11/18/2018,20:00,318.0,3,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Jaipur Pink Panthers,Bengaluru Bulls,32,45,Bengaluru Bulls
+696,Match 71,11/18/2018,21:00,106.0,30,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",U.P. Yoddha,Gujarat Fortunegiants,37,32,U.P. Yoddha
+697,Match 72,11/20/2018,20:00,26.0,29,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Tamil Thalaivas,Telugu Titans,27,23,Tamil Thalaivas
+698,Match 73,11/20/2018,21:00,251.0,2,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",Dabang Delhi K.C.,Gujarat Fortunegiants,26,29,Gujarat Fortunegiants
+699,Match 74,11/21/2018,20:00,197.0,29,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Tamil Thalaivas,Patna Pirates,45,27,Tamil Thalaivas
+7,Match 7,7/29/2014,20:00,88.0,5,Choice of court : Right,5,"DOME@NSCI SVP Stadium, Mumbai",U Mumba,Patna Pirates,36,33,U Mumba
+70,Match 9,7/22/2015,21:00,69.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Bengaluru Bulls,31,26,Patna Pirates
+700,Match 75,11/21/2018,21:00,219.0,31,Choice of court :Left,11,"The Arena by Transstadia, Ahmedabad",Gujarat Fortunegiants,U Mumba,39,35,Gujarat Fortunegiants
+701,Match 76,11/22/2018,20:00,757.0,28,Choice of court :Right,11,"The Arena by Transstadia, Ahmedabad",Haryana Steelers,Gujarat Fortunegiants,40,31,Haryana Steelers
+702,Match 77,11/23/2018,20:00,143.0,4,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengal Warriors,Bengaluru Bulls,31,33,Bengaluru Bulls
+704,Match 79,11/24/2018,20:00,2026.0,2,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C.,U Mumba,39,23,Dabang Delhi K.C.
+705,Match 80,11/24/2018,21:00,326.0,29,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Tamil Thalaivas,Bengaluru Bulls,36,22,Tamil Thalaivas
+706,Match 82,11/25/2018,21:00,326.0,1,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,Patna Pirates,32,35,Patna Pirates
+707,Match 81,11/25/2018,20:00,366.0,28,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Haryana Steelers,Dabang Delhi K.C.,27,34,Dabang Delhi K.C.
+708,Match 83,11/26/2018,20:00,26.0,8,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Telugu Titans,Tamil Thalaivas,31,25,Telugu Titans
+709,Match 85,11/28/2018,20:00,388.0,28,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Haryana Steelers,Puneri Paltan,33,35,Puneri Paltan
+71,Match 10,7/23/2015,20:00,12.0,8,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Bengal Warriors,30,32,Bengal Warriors
+710,Match 86,11/28/2018,21:00,326.0,8,Choice of court :Left,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Telugu Titans,Bengaluru Bulls,34,26,Telugu Titans
+711,Match 87,11/29/2018,20:00,757.0,7,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan,Gujarat Fortunegiants,20,35,Gujarat Fortunegiants
+712,Match 88,11/29/2018,21:00,143.0,1,Choice of court :Right,7,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls,Bengal Warriors,37,44,Bengal Warriors
+713,Match 89,11/30/2018,20:00,41.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Jaipur Pink Panthers,48,35,Dabang Delhi K.C.
+715,Match 91,12-01-2018,20:00,2026.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,U Mumba,34,41,U Mumba
+716,Match 92,12-02-2018,20:00,757.0,5,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Gujarat Fortunegiants,36,26,U Mumba
+717,Match 93,12-02-2018,21:00,174.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Puneri Paltan,35,24,Dabang Delhi K.C.
+718,Match 94,12-04-2018,20:00,757.0,6,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Patna Pirates,Gujarat Fortunegiants,27,45,Gujarat Fortunegiants
+719,Match 95,12-04-2018,21:00,251.0,2,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Dabang Delhi K.C.,Telugu Titans,34,29,Dabang Delhi K.C.
+720,Match 96,12-05-2018,20:00,388.0,28,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Haryana Steelers,Bengal Warriors,35,33,Haryana Steelers
+721,Match 97,12-05-2018,21:00,326.0,1,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Bengaluru Bulls,Dabang Delhi K.C.,32,31,Bengaluru Bulls
+722,Match 98,12-06-2018,20:00,388.0,30,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",U.P. Yoddha,Haryana Steelers,30,29,U.P. Yoddha
+723,Match 99,12-06-2018,21:00,26.0,29,Choice of court :Left,2,"Thyagaraj Sports Complex, Delhi",Tamil Thalaivas,Dabang Delhi K.C.,37,33,Tamil Thalaivas
+724,Match 100,12-07-2018,20:00,219.0,8,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Telugu Titans,Gujarat Fortunegiants,27,29,Gujarat Fortunegiants
+725,Match 101,12-07-2018,21:00,197.0,6,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Patna Pirates,Puneri Paltan,53,36,Patna Pirates
+726,Match 102,12-08-2018,20:00,2026.0,4,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",Bengal Warriors,U Mumba,31,20,Bengal Warriors
+727,Match 103,12-08-2018,21:00,41.0,3,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",Jaipur Pink Panthers,Telugu Titans,36,26,Jaipur Pink Panthers
+728,Match 104,12-09-2018,20:00,41.0,29,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Tamil Thalaivas,Jaipur Pink Panthers,24,37,Jaipur Pink Panthers
+729,Match 105,12-09-2018,21:00,388.0,8,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Telugu Titans,Haryana Steelers,35,31,Telugu Titans
+73,Match 12,7/24/2015,21:00,29.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,U Mumba,25,29,U Mumba
+730,Match 106,12-11-2018,20:00,2026.0,2,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Dabang Delhi K.C.,U Mumba,19,44,U Mumba
+731,Match 107,12-11-2018,21:00,155.0,8,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Telugu Titans,U.P. Yoddha,20,27,U.P. Yoddha
+732,Match 108,12-12-2018,20:00,219.0,28,Choice of court :Right,8,"Rajiv Gandhi Indoor Stadium, Vizag",Haryana Steelers,Gujarat Fortunegiants,37,47,Gujarat Fortunegiants
+733,Match 109,12-12-2018,21:00,318.0,1,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",Bengaluru Bulls,Telugu Titans,24,37,Telugu Titans
+734,Match 110,12/13/2018,20:00,81.0,6,Choice of court :Left,8,"Rajiv Gandhi Indoor Stadium, Vizag",Patna Pirates,Telugu Titans,41,36,Patna Pirates
+735,Match 111,12/14/2018,20:00,41.0,7,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Puneri Paltan,Jaipur Pink Panthers,36,23,Puneri Paltan
+736,Match 112,12/14/2018,21:00,143.0,4,Choice of court :Right,25,"Tau Devilal Sports Complex, Panchkula",Bengal Warriors,Tamil Thalaivas,28,21,Bengal Warriors
+738,Match 114,12/15/2018,21:00,2026.0,5,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",U Mumba,Jaipur Pink Panthers,35,35,
+739,Match 115,12/16/2018,20:00,155.0,30,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",U.P. Yoddha,Patna Pirates,31,47,Patna Pirates
+74,Match 13,7/25/2015,20:00,195.0,1,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengaluru Bulls,Puneri Paltan,31,26,Bengaluru Bulls
+740,Match 116,12/16/2018,21:00,41.0,31,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Gujarat Fortunegiants,Jaipur Pink Panthers,29,34,Jaipur Pink Panthers
+741,Match 117,12/18/2018,20:00,318.0,8,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Telugu Titans,Bengaluru Bulls,44,28,Telugu Titans
+742,Match 118,12/18/2018,21:00,41.0,28,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Haryana Steelers,Jaipur Pink Panthers,39,30,Haryana Steelers
+744,Match 120,12/19/2018,21:00,219.0,31,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Gujarat Fortunegiants,Jaipur Pink Panthers,31,33,Jaipur Pink Panthers
+745,Match 121,12/20/2018,20:00,36.0,2,Choice of court :Left,25,"Tau Devilal Sports Complex, Panchkula",Dabang Delhi K.C.,Jaipur Pink Panthers,37,37,
+746,Match 123,12/21/2018,21:00,772.0,8,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Puneri Paltan,35,20,Telugu Titans
+747,Match 124,12/22/2018,20:00,261.0,5,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",U Mumba,U.P. Yoddha,32,34,U.P. Yoddha
+748,Match 125,12/22/2018,21:00,143.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Bengal Warriors,39,23,Patna Pirates
+749,Match 126,12/23/2018,20:00,251.0,2,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Dabang Delhi K.C.,Bengal Warriors,31,37,Bengal Warriors
+750,Match 122,12/21/2018,20:00,12.0,29,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Tamil Thalaivas,Bengal Warriors,27,24,Tamil Thalaivas
+752,Match 128,12/25/2018,21:00,143.0,8,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Bengal Warriors,39,34,Telugu Titans
+753,Match 129,12/26/2018,20:00,197.0,6,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Patna Pirates,Gujarat Fortunegiants,37,29,Patna Pirates
+754,Match 130,12/26/2018,21:00,143.0,1,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengaluru Bulls,Bengal Warriors,37,31,Bengaluru Bulls
+755,Match 131,12/27/2018,20:00,318.0,1,Choice of court :Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengaluru Bulls,Jaipur Pink Panthers,32,40,Jaipur Pink Panthers
+756,Match 132,12/27/2018,21:00,94.0,4,Choice of court :Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,U.P. Yoddha,25,41,U.P. Yoddha
+757,Eliminator 1,12/30/2018,20:00,2026.0,30,Choice of raid :Right,24,"Rajiv Gandhi Indoor Stadium, Kochi",U Mumba,U.P. Yoddha,29,34,U.P. Yoddha
+758,Eliminator 2,12/30/2018,21:00,,2,Choice of court :Right,24,"Rajiv Gandhi Indoor Stadium, Kochi",Dabang Delhi K.C.,Bengal Warriors,39,28,Dabang Delhi K.C.
+759,Qualifier 1,12/31/2018,20:00,318.0,31,Choice of court :Right,24,"Rajiv Gandhi Indoor Stadium, Kochi",Gujarat Fortunegiants,Bengaluru Bulls,29,41,Bengaluru Bulls
+76,Match 15,7/26/2015,20:00,88.0,3,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Jaipur Pink Panthers,Patna Pirates,23,29,Patna Pirates
+760,Eliminator 3,12/31/2018,21:00,155.0,2,Choice of court :Left,24,"Rajiv Gandhi Indoor Stadium, Kochi",Dabang Delhi K.C.,U.P. Yoddha,45,33,Dabang Delhi K.C.
+761,Qualifier 2,01-03-2019,20:00,757.0,30,Choice of raid :Right,5,"DOME@NSCI SVP Stadium, Mumbai",Gujarat Fortunegiants,U.P. Yoddha,38,31,Gujarat Fortunegiants
+762,Final,01-05-2019,20:00,318.0,1,Choice of court :Left,5,"DOME@NSCI SVP Stadium, Mumbai",Bengaluru Bulls,Gujarat Fortunegiants,38,33,Bengaluru Bulls
+763,Match 1,10-05-2018,20:00,81.0,29,Choice of court :Left,0,TBD,Tamil Thalaivas,Telugu Titans,36,58,Telugu Titans
+77,Match 16,7/26/2015,21:00,29.0,8,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Telugu Titans,U Mumba,26,27,U Mumba
+79,Match 18,7/27/2015,21:00,81.0,8,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Telugu Titans,Jaipur Pink Panthers,22,33,Jaipur Pink Panthers
+8,Match 8,7/30/2014,20:00,26.0,4,Choice of court : Right,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Bengal Warriors,Bengaluru Bulls,30,46,Bengaluru Bulls
+80,Match 19,7/28/2015,20:00,52.0,1,Choice of court :Right,3,"Sawai Mansingh Stadium, Jaipur",Bengaluru Bulls,Jaipur Pink Panthers,36,23,Bengaluru Bulls
+81,Match 20,7/29/2015,20:00,79.0,7,Choice of court :Left,3,"Sawai Mansingh Stadium, Jaipur",Puneri Paltan,Bengal Warriors,33,29,Puneri Paltan
+83,Match 22,7/30/2015,20:00,,8,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Telugu Titans,Patna Pirates,22,34,Patna Pirates
+84,Match 23,7/31/2015,20:00,,8,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Telugu Titans,Bengaluru Bulls,21,35,Bengaluru Bulls
+87,Match 26,08-01-2015,21:00,,7,Choice of court :Left,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Patna Pirates,32,28,Puneri Paltan
+88,Match 27,08-02-2015,20:00,79.0,7,Choice of court :Right,6,"Patliputra Sports Complex, Patna",Puneri Paltan,Jaipur Pink Panthers,29,35,Jaipur Pink Panthers
+9,Match 9,7/31/2014,20:00,52.0,8,Choice of court : Left,4,"Netaji Subhash Chandra Bose Indoor Stadium, Kolkata",Telugu Titans,Jaipur Pink Panthers,45,31,Telugu Titans
+92,Match 31,08-05-2015,20:00,81.0,4,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Bengal Warriors,Telugu Titans,44,28,Bengal Warriors
+93,Match 32,08-06-2015,20:00,26.0,1,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls,Bengal Warriors,22,33,Bengal Warriors
+94,Match 33,08-06-2015,21:00,,8,Choice of court :Right,9,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans,Patna Pirates,54,32,Telugu Titans
+95,Match 34,08-07-2015,20:00,190.0,5,Choice of court :Left,9,"Gachibowli Indoor Stadium, Hyderabad",U Mumba,Jaipur Pink Panthers,35,25,U Mumba
+98,Match 37,08-08-2015,21:00,69.0,6,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",Patna Pirates,Bengaluru Bulls,30,28,Patna Pirates
+99,Match 38,08-09-2015,20:00,29.0,5,Choice of court :Right,2,"Thyagaraj Sports Complex, Delhi",U Mumba,Bengal Warriors,31,17,U Mumba
