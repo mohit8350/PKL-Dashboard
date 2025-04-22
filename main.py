@@ -16,7 +16,7 @@ st.sidebar.title('Selection Bar')
 # giving user different type of analysis type
 analysis_type_button = st.sidebar.selectbox('Select Type of Analysis', ['Based On Raiders', 'On A Team', 'Over All'])
 
-# if user want to analysis by raider name
+# if user want to see stats by raider name
 if analysis_type_button == 'Based On Raiders':
     # getting and showing name of all the raiders
     raider_name_button = st.sidebar.selectbox('Select Raider', GD.get_raider_names())
@@ -36,6 +36,10 @@ if analysis_type_button == 'Based On Raiders':
         # super raids 
         st.write("No of Super Raids: {}".format(PA(raider_name_button).number_of_superraids))
 
+        # number of super tens
+        st.write("No of Super Tens: {}".format(PA(raider_name_button).number_of_supertens))
+
+
         # highest points scored by raider in single match
         st.write(raider_name_button + " Scored {} Points, Highest in one match on {}  ".format(PA(raider_name_button).highest_score, PA(raider_name_button).date))
 
@@ -47,7 +51,7 @@ if analysis_type_button == 'Based On Raiders':
 
         st.plotly_chart(PA(raider_name_button).graph2)
 
-
+# if user want to see over all stats
 elif analysis_type_button == 'Over All':
 
      # showing different type of analysis
@@ -103,10 +107,9 @@ elif analysis_type_button == 'Over All':
 
     # top 10 players with most no of unsuccessful do or die raids
         st.plotly_chart(OA().unsuccessful_dod_raids)
-        
 
 
-# if user want to analysis by team name
+# if user want to see stats by team name
 else:
     team_name_button = st.sidebar.selectbox('Select Team', team_names)
     if team_name_button:

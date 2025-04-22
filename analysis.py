@@ -14,6 +14,7 @@ class GetData:
     def get_team_names():
         return teams['name'].unique()
 
+
 class PlayerAnalysis:
 
     def __init__(self, player_name):
@@ -30,6 +31,9 @@ class PlayerAnalysis:
 
         self.graph1 = self.get_events(player_name)
         self.graph2 = self.get_match_by_match(player_name)
+
+        self.number_of_superraids = self.get_no_supers(player_name)[0]
+        self.number_of_supertens = self.get_no_supers(player_name)[1]
 
     def get_id(self, player_name):
         return raids[raids['raider_name'] == player_name]['raider_id'].unique()[0]
@@ -73,6 +77,22 @@ class PlayerAnalysis:
 
         fig = go.Figure(data, layout)
         return fig
+
+    def get_no_supers(self, name):
+
+        # no of super raids for the specific player
+        no_of_super_raids_by_raider = raids[(raids['raid_points'] >= 3) & (raids['raider_name'] == name)].index.__len__()
+
+
+        # raider_match_points
+        
+        raider_match_points = raids[raids['raider_name'] == name].groupby('match_id')['raid_points'].sum().reset_index()
+
+        raider_match_points = raids[raids['raider_name'] == 'Pardeep Narwal'].groupby('match_id')['raid_points'].sum().reset_index()
+
+        no_of_super_tens_by_raider = raider_match_points[raider_match_points['raid_points'] >= 10].index.__len__()   
+        
+        return (no_of_super_raids_by_raider, no_of_super_tens_by_raider)
 
 
 class TeamAnalysis:
@@ -184,7 +204,6 @@ class OverAll:
         self.dod_raids = self.get_raider_dod_info()[0]
         self.successful_dod_raids = self.get_raider_dod_info()[1]
         self.unsuccessful_dod_raids = self.get_raider_dod_info()[2]
-
         
     def get_team_graphs(self):
 
@@ -348,7 +367,6 @@ class OverAll:
         dod_unsuccess_fig = go.Figure(data=[trace3], layout=go.Layout(title='Top 10 Number of Unsuccessful Do or Die Raids Done By Raiders', yaxis_title='Number of Raids'))
 
         return (dod_fig, dod_success_fig, dod_unsuccess_fig)
-
 
 
     #end
