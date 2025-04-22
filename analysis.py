@@ -26,9 +26,6 @@ class PlayerAnalysis:
         self.successful_raids = self.get_info(id)[2]
         self.highest_score, self.date = self.get_highest_score(player_name)
 
-        self.number_of_superraids = raids[(raids['raid_points'] >= 3) & (raids['raider_name'] == player_name)].index.__len__()
-
-
         self.graph1 = self.get_events(player_name)
         self.graph2 = self.get_match_by_match(player_name)
 
@@ -88,7 +85,7 @@ class PlayerAnalysis:
         
         raider_match_points = raids[raids['raider_name'] == name].groupby('match_id')['raid_points'].sum().reset_index()
 
-        raider_match_points = raids[raids['raider_name'] == 'Pardeep Narwal'].groupby('match_id')['raid_points'].sum().reset_index()
+        raider_match_points = raids[raids['raider_name'] == name].groupby('match_id')['raid_points'].sum().reset_index()
 
         no_of_super_tens_by_raider = raider_match_points[raider_match_points['raid_points'] >= 10].index.__len__()   
         
